@@ -3,7 +3,7 @@ message: "If you use these materials, please cite the associated article."
 title: "LLM judges in craniosynostosis patient education: data and evaluation code"
 type: software
 license: MIT
-repository-code: "https://github.com/onurerdoganmd/llm_as_judge_craniosynostosis"
+repository-code: "https://github.com/onurerdoganmd/llm_as_judge_craniosynostosis_data"
 authors:
   - family-names: "Erdoğan"
     given-names: "Onur"
