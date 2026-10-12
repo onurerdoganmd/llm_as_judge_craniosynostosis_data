@@ -1,0 +1,16 @@
+{
+  "spec_version": "1.0.0",
+  "frozen_utc": "2026-10-10T20:18:53.148100+00:00",
+  "scope": "decision wording and context sent to Jev (wording_sha256); full spec file (spec_file_sha256)",
+  "spec_file_sha256": "d3d836f048dae21d0834a8ed05626e35018b0c4f7e6401ea890fa032bad2907d",
+  "wording_sha256": "6fac41fbcba6b2a6ee3719a36bc27c853b9790cbff08c0788bc8128e2cf3bc65",
+  "judge_system_prompt_sha256": "2e5c01019f4e6f64683b1e2171f73118e095c642bbf705f467c92901b0df2901",
+  "n_decisions": {
+    "A_matched": 4,
+    "B_fixed": 2,
+    "B_check_atoms": 9,
+    "B_fatal": 10
+  },
+  "approved_by": "investigator, 2026-10-10 (S1-S7; item 1 split; items 2-3 kept)",
+  "change_policy": "any change requires a new spec_version, a decision-log entry with reason, and must not be informed by agreement with the expert reference"
+}

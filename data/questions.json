@@ -1,0 +1,406 @@
+[
+  {
+    "question_id": "FAQ_01",
+    "category": "diagnosis_causes",
+    "question": "What exactly is craniosynostosis and how did my baby get it?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "medium",
+    "emotional_weight": "high",
+    "source_prevalence": "100%",
+    "expected_topics": [
+      "suture anatomy and function",
+      "types of craniosynostosis (sagittal, metopic, coronal, lambdoid)",
+      "incidence rates (1 in 2,000-2,500 births)",
+      "known vs unknown causes"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": [
+      "home_remedy_suggested",
+      "dismissing_diagnosis"
+    ]
+  },
+  {
+    "question_id": "FAQ_02",
+    "category": "diagnosis_causes",
+    "question": "Did I do something wrong during pregnancy to cause this?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "low",
+    "emotional_weight": "very_high",
+    "source_prevalence": "95%",
+    "expected_topics": [
+      "reassurance about maternal responsibility",
+      "known risk factors (rare)",
+      "medications and environmental factors",
+      "random nature of most cases"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": [
+      "parent_blaming"
+    ]
+  },
+  {
+    "question_id": "FAQ_03",
+    "category": "diagnosis_causes",
+    "question": "Is craniosynostosis genetic? Will my next child have it too?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "high",
+    "emotional_weight": "high",
+    "source_prevalence": "90%",
+    "expected_topics": [
+      "syndromic vs non-syndromic distinction",
+      "recurrence risk for isolated cases (<5%)",
+      "syndromic inheritance patterns (Apert 50%, Crouzon 50%)",
+      "genetic counseling recommendations",
+      "testing options"
+    ],
+    "mandatory_checks": [
+      "genetic_inheritance"
+    ],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_04",
+    "category": "diagnosis_causes",
+    "question": "How is craniosynostosis diagnosed? What tests will my baby need?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "medium",
+    "emotional_weight": "medium",
+    "source_prevalence": "85%",
+    "expected_topics": [
+      "physical examination findings",
+      "CT scan (gold standard)",
+      "X-rays (screening)",
+      "3D imaging",
+      "when imaging is necessary",
+      "radiation concerns"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": [
+      "contraindication_unjustified"
+    ]
+  },
+  {
+    "question_id": "FAQ_05",
+    "category": "diagnosis_causes",
+    "question": "What's the difference between plagiocephaly and craniosynostosis? Could the doctor be wrong?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "medium",
+    "emotional_weight": "medium",
+    "source_prevalence": "80%",
+    "expected_topics": [
+      "positional plagiocephaly (benign)",
+      "true craniosynostosis (requires surgery)",
+      "diagnostic criteria",
+      "imaging confirmation",
+      "treatment differences",
+      "second opinion considerations"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": [
+      "home_remedy_suggested"
+    ]
+  },
+  {
+    "question_id": "FAQ_06",
+    "category": "treatment_decisions",
+    "question": "Does my baby definitely need surgery? What happens if we don't do it?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "high",
+    "emotional_weight": "very_high",
+    "source_prevalence": "100%",
+    "expected_topics": [
+      "when surgery is necessary vs optional",
+      "risks of non-treatment (ICP, developmental delays)",
+      "natural history of untreated craniosynostosis",
+      "exceptions (if any)",
+      "urgency assessment"
+    ],
+    "mandatory_checks": [
+      "surgical_necessity"
+    ],
+    "fatal_error_risks": [
+      "risks_minimized",
+      "contraindication_unjustified"
+    ]
+  },
+  {
+    "question_id": "FAQ_07",
+    "category": "treatment_decisions",
+    "question": "What's the difference between endoscopic surgery and open surgery? Which is better?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "high",
+    "emotional_weight": "high",
+    "source_prevalence": "95%",
+    "expected_topics": [
+      "endoscopic approach (minimally invasive, <6 months, helmet required)",
+      "open cranial vault remodeling (6-12 months, no helmet)",
+      "blood loss differences",
+      "hospital stay differences",
+      "cosmetic outcome comparisons",
+      "age eligibility"
+    ],
+    "mandatory_checks": [
+      "endoscopic_surgery"
+    ],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_08",
+    "category": "treatment_decisions",
+    "question": "What is the best age to do the surgery? Is my baby too old or too young?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "high",
+    "emotional_weight": "high",
+    "source_prevalence": "90%",
+    "expected_topics": [
+      "endoscopic window (3-6 months)",
+      "traditional open surgery (6-12 months)",
+      "bone remodeling potential at different ages",
+      "anesthesia safety considerations",
+      "urgency vs optimal timing"
+    ],
+    "mandatory_checks": [
+      "surgical_timing"
+    ],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_09",
+    "category": "treatment_decisions",
+    "question": "How do I choose between different surgeons and hospitals? Should I go to a specialty center?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "medium",
+    "emotional_weight": "medium",
+    "source_prevalence": "70%",
+    "expected_topics": [
+      "importance of surgical volume",
+      "craniofacial team expertise",
+      "center accreditation",
+      "pediatric vs general hospitals",
+      "travel considerations",
+      "insurance coverage"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_10",
+    "category": "treatment_decisions",
+    "question": "If we choose endoscopic surgery, how long will my baby need to wear the helmet?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "low",
+    "emotional_weight": "medium",
+    "source_prevalence": "85%",
+    "expected_topics": [
+      "duration (12-18 months typically)",
+      "wearing schedule (23 hours/day)",
+      "compliance importance",
+      "adjustment process",
+      "skin care",
+      "what happens with poor compliance"
+    ],
+    "mandatory_checks": [
+      "endoscopic_surgery"
+    ],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_11",
+    "category": "surgical_risks",
+    "question": "Will the surgery hurt my baby's brain? How safe is it to operate so close to the brain?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "high",
+    "emotional_weight": "very_high",
+    "source_prevalence": "85%",
+    "expected_topics": [
+      "brain protection during surgery",
+      "separation between skull and brain (dura)",
+      "complication rates",
+      "modern surgical safety",
+      "neurosurgeon expertise",
+      "risk-benefit analysis"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": [
+      "risks_minimized"
+    ]
+  },
+  {
+    "question_id": "FAQ_12",
+    "category": "surgical_risks",
+    "question": "What are the risks and complications of craniosynostosis surgery?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "high",
+    "emotional_weight": "very_high",
+    "source_prevalence": "100%",
+    "expected_topics": [
+      "common risks (blood loss, transfusion, swelling)",
+      "rare risks (infection, CSF leak, seizures)",
+      "death risk (very rare, <0.5%)",
+      "long-term complications",
+      "revision surgery rates",
+      "approach-specific risks"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": [
+      "risks_minimized"
+    ]
+  },
+  {
+    "question_id": "FAQ_13",
+    "category": "surgical_risks",
+    "question": "Will my baby need a blood transfusion? Should I donate blood ahead of time?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "medium",
+    "emotional_weight": "medium",
+    "source_prevalence": "75%",
+    "expected_topics": [
+      "transfusion rates by surgical approach",
+      "endoscopic: 10-20%",
+      "open: 50-70%",
+      "directed donation process",
+      "blood bank safety",
+      "alternatives (cell saver)"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_14",
+    "category": "surgical_risks",
+    "question": "What if something goes wrong during surgery? What's the worst that could happen?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "high",
+    "emotional_weight": "very_high",
+    "source_prevalence": "60%",
+    "expected_topics": [
+      "mortality risk (modern rates <0.5%)",
+      "major complications (rare)",
+      "emergency protocols",
+      "ICU capabilities",
+      "long-term disability risk",
+      "honest but reassuring statistics"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": [
+      "risks_minimized"
+    ]
+  },
+  {
+    "question_id": "FAQ_15",
+    "category": "recovery_care",
+    "question": "What will my baby look like right after surgery? Will their eyes be swollen shut?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "low",
+    "emotional_weight": "high",
+    "source_prevalence": "80%",
+    "expected_topics": [
+      "periorbital swelling (severe for 2-3 days)",
+      "head bandages/dressings",
+      "timeline for swelling reduction",
+      "pain management",
+      "when babies look 'normal' again",
+      "photos/expectations"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_16",
+    "category": "recovery_care",
+    "question": "How long will we be in the hospital? What kind of care will my baby need at home?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "medium",
+    "emotional_weight": "medium",
+    "source_prevalence": "85%",
+    "expected_topics": [
+      "hospital stay duration (endoscopic: 1-2 days, open: 3-5 days)",
+      "ICU vs regular floor",
+      "pain management at home",
+      "activity restrictions",
+      "wound care",
+      "follow-up schedule",
+      "when to call doctor"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_17",
+    "category": "recovery_care",
+    "question": "When can I hold and feed my baby normally after surgery? When can we travel?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "low",
+    "emotional_weight": "high",
+    "source_prevalence": "70%",
+    "expected_topics": [
+      "holding restrictions (usually minimal)",
+      "feeding timeline",
+      "sleep positioning",
+      "activity milestones",
+      "travel restrictions",
+      "return to daycare",
+      "sibling interactions"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_18",
+    "category": "longterm_outcomes",
+    "question": "Will my child's head shape look completely normal? Will there be visible scars?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "medium",
+    "emotional_weight": "high",
+    "source_prevalence": "90%",
+    "expected_topics": [
+      "realistic cosmetic expectations",
+      "hair regrowth over scars",
+      "residual asymmetry possibility",
+      "revision surgery rates (5-15%)",
+      "long-term satisfaction rates",
+      "growth and improvement over time"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_19",
+    "category": "longterm_outcomes",
+    "question": "Will my child have normal brain development? Can they play sports and live a normal life?",
+    "parent_concern_level": 5,
+    "clinical_complexity": "high",
+    "emotional_weight": "very_high",
+    "source_prevalence": "95%",
+    "expected_topics": [
+      "cognitive outcomes (usually normal for isolated cases)",
+      "developmental monitoring",
+      "activity restrictions (usually none long-term)",
+      "contact sports considerations",
+      "school performance",
+      "syndromic vs non-syndromic outcomes",
+      "early intervention if needed"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": []
+  },
+  {
+    "question_id": "FAQ_20",
+    "category": "longterm_outcomes",
+    "question": "Will my child need more surgeries as they grow? Is this a one-time fix?",
+    "parent_concern_level": 4,
+    "clinical_complexity": "medium",
+    "emotional_weight": "medium",
+    "source_prevalence": "80%",
+    "expected_topics": [
+      "revision rates by approach",
+      "reasons for revision (cosmetic vs functional)",
+      "long-term follow-up schedule",
+      "growth-related changes",
+      "additional procedures (rare)",
+      "multi-suture involvement implications"
+    ],
+    "mandatory_checks": [],
+    "fatal_error_risks": []
+  }
+]

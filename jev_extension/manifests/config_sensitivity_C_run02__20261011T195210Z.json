@@ -1,0 +1,16 @@
+{
+  "study": "config_sensitivity",
+  "arm": "C",
+  "run_id": "run02",
+  "counts": {
+    "called": 400,
+    "skipped_existing": 0,
+    "success": 400,
+    "failed": 0
+  },
+  "started_utc": "2026-10-11T19:52:10.173812+00:00",
+  "finished_utc": "2026-10-11T19:54:00.510733+00:00",
+  "model_discovery_record": "jev_extension\\raw\\config_sensitivity\\study\\model_metadata\\models__C_run02__20261011T195210173812Z.json",
+  "cs_lock_sha256": "6bb5c01c9a37673a5ef367efbab3a8cd44aed6d1ab2b8e4d1a285bb7a7bb295d",
+  "phase5_lock_sha256": "12b609ccefd6409da0373d71a8a15567a6c5adaa140474f30b590287329480f6"
+}

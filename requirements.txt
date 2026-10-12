@@ -1,0 +1,12 @@
+# LLM-as-a-Judge — Craniosynostosis patient-education evaluation
+# Response generation + multi-judge evaluation harness only.
+# Python >= 3.9
+
+# --- LLM API clients (response generation + judging) ---
+anthropic>=0.40.0          # Claude judges / contestants
+openai>=1.40.0             # GPT judges / contestants (also DeepSeek via compatible endpoint)
+google-genai>=0.3.0        # Gemini judges / contestants
+together>=1.3.0            # Llama judges / contestants
+
+# --- Utilities ---
+python-dotenv>=1.0.0       # loads API keys from a local .env (never committed)

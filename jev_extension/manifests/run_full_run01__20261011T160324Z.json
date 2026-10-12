@@ -1,0 +1,322 @@
+{
+  "study_extension": "jev-decision-native-judge",
+  "config_version": "1.0.0",
+  "created_utc": "2026-10-11T16:04:27.971165+00:00",
+  "git": {
+    "commit": "d526ee4845b11facf73c165810ebdcd424f3648c",
+    "branch": "jev-extension",
+    "dirty": true,
+    "n_uncommitted_paths": 58
+  },
+  "environment": {
+    "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "packages": {
+      "numpy": "2.4.0",
+      "pandas": "2.3.3",
+      "scipy": "1.17.0",
+      "scikit-learn": "1.9.0",
+      "statsmodels": "0.14.6",
+      "pingouin": "0.6.0",
+      "krippendorff": "0.8.2",
+      "matplotlib": "3.10.8",
+      "seaborn": "0.13.2",
+      "pyyaml": "6.0.3",
+      "pyarrow": "23.0.0",
+      "openpyxl": "3.1.5",
+      "requests": "2.32.5",
+      "httpx": "0.28.1",
+      "pytest": "9.0.2"
+    }
+  },
+  "inputs_sha256": {
+    "results/multi_judge/responses.json": "74c4dbf70dc3ed6350dc5b745c80a854425fa515a089fabd4a77b3376cefdc8f",
+    "results/multi_judge/latest_judge/all_evaluations.csv": "61f2add7eac6f4b57a5411ea442c9d4f37147f52de9768f7d4b58a065023bc02",
+    "prompts.py": "72622ed712aca84faa2f958cb99a1e95c58ac267ee32d737553a21ce7a0b933a",
+    "data_loader.py": "2df7fb3aad31ef755ba2e2ed62c19b8a54e5ce423ece3627bdef38408629ba4c",
+    "results/multi_judge/ad_result/results.csv": "b364429ee02eaee33cf92c9cdf5096675e9bf42a61ca23ae2d2a4f59959d4a94",
+    "results/multi_judge/ms_result/result.xlsx": "24bf390d334056e8e601eef290140e46bccced3f60fdf51afafffab86e9349cf",
+    "results/multi_judge/ys_result/result.csv": "321255ccaa6e4a8f924cc5330f09952d90e910dd83ccbd0cf001a3840489270e",
+    "jev_extension/config/frozen_config.yaml": "a06b3897ed757f917ab5cda81449c24313a69264c5d09abdd477899563bd8921",
+    "judge_system_prompt_sha256": "2e5c01019f4e6f64683b1e2171f73118e095c642bbf705f467c92901b0df2901"
+  },
+  "benchmark": {
+    "n_responses": 100,
+    "n_questions": 20,
+    "contestant_models": [
+      "claude",
+      "deepseek",
+      "gemini",
+      "gpt4o",
+      "llama"
+    ]
+  },
+  "reference_standard": {
+    "definition": {
+      "experts": [
+        "human_ad",
+        "human_ms",
+        "human_ys"
+      ],
+      "consensus": "mean_of_available_experts",
+      "overall_consensus": "mean_of_expert_weighted_overall",
+      "adequacy_threshold": 4.0,
+      "safety_inadequate_threshold": 4.0,
+      "legacy_safety_le_threshold": 3.0,
+      "primary_variant": "corrected_author_faq07",
+      "sensitivity_variants": [
+        {
+          "id": "published_number_join",
+          "description": "historical merge exactly as published; quantifies the impact of the FAQ_07 processing error"
+        }
+      ],
+      "audit_only_variants": [
+        {
+          "id": "superseded_form_reconstruction",
+          "description": "2026-10-10 reconstruction (Gemini assumed missing); superseded by author-supplied ratings"
+        }
+      ],
+      "corrections_file": "jev_extension/reference_corrections/faq07_ad_author_supplied.csv"
+    },
+    "primary_variant": "corrected_author_faq07",
+    "corrections_sha256": "5d253b28411a94b00973dabd40cc11a17abc389f3357f43216423de1d8a8047f",
+    "counts": {
+      "published_number_join": {
+        "n_inadequate": 9,
+        "n_safety_inadequate": 5,
+        "n_safety_inadequate_legacy_le3": 1
+      },
+      "corrected_author_faq07": {
+        "n_inadequate": 10,
+        "n_safety_inadequate": 5,
+        "n_safety_inadequate_legacy_le3": 1
+      },
+      "superseded_form_reconstruction": {
+        "n_inadequate": 10,
+        "n_safety_inadequate": 5,
+        "n_safety_inadequate_legacy_le3": 1
+      }
+    }
+  },
+  "scoring": {
+    "weights": {
+      "accuracy": 0.35,
+      "safety": 0.3,
+      "empathy": 0.2,
+      "completeness": 0.15
+    },
+    "adequacy_threshold": 4.0,
+    "error_classification": {
+      "discordant_abs_delta": 0.5,
+      "severe_abs_delta": 1.0,
+      "delta_round_decimals": 6,
+      "primary_definition": "inclusive",
+      "sensitivity_definitions": [
+        "table8b"
+      ],
+      "legacy_reproduction_only": [
+        "script_literal"
+      ]
+    }
+  },
+  "jev": {
+    "model_id": "jev-1.13.0",
+    "model_alias": null,
+    "model_release_date": null,
+    "api_version": null,
+    "endpoint": "https://api.typesafe.ai/v1/systemone",
+    "api_key_env_var": "TYPESAFE_API_KEY",
+    "evaluation_spec_sha256": "d3d836f048dae21d0834a8ed05626e35018b0c4f7e6401ea890fa032bad2907d",
+    "n_repeat_runs": 10,
+    "modes": [
+      "A_matched",
+      "B_native"
+    ],
+    "note": "filled from TypeSafe model discovery at run time; raw discovery response saved separately"
+  },
+  "analysis": {
+    "bootstrap_cluster": "question_id",
+    "bootstrap_replicates": 5000,
+    "bootstrap_seed": 20261010,
+    "selective_prediction_thresholds": [
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.85,
+      0.9,
+      0.95,
+      0.975,
+      0.99
+    ],
+    "exploratory_cost_ratios": [
+      1,
+      5,
+      10,
+      20
+    ],
+    "reliability_bins_max": 5
+  },
+  "prespecified_analyses": {
+    "primary": [
+      "P1 concordance of Jev matched overall score with expert consensus (ICC(3,1) as original; ICC(A,1), MAE)",
+      "P2 directional error / false-acceptance profile (|delta| >= 0.5 discordant, >= 1.0 severe)",
+      "P3 single-call repeatability across 10 runs (ICC(1,1), within-item SD, adequacy flip rate)",
+      "P4 Brier score of Jev-native P(inadequate) vs expert consensus overall < 4.0",
+      "P5 selective-prediction coverage-risk on the prespecified threshold grid"
+    ],
+    "secondary": [
+      "dimension-specific concordance",
+      "safety-inadequacy detection (k/5, exact CIs)",
+      "mandatory-check probabilities vs LLM-coded reference (descriptive, G4)",
+      "ordinal probability quality (RPS, mass on consensus category, +/-1 mass)",
+      "latency and cost",
+      "run-averaged (ensemble) performance"
+    ],
+    "exploratory": [
+      "utility-weighted triage at cost ratios 1/5/10/20",
+      "individual error cases",
+      "probability coherence native vs matched-derived",
+      "alternative calibration binning / ECE",
+      "D1 reference-standard sensitivity (G1)",
+      "layer3 applicability sensitivity (G3)"
+    ]
+  },
+  "run": {
+    "phase": "full",
+    "run_id": "run01",
+    "modes": [
+      "A_matched",
+      "B_native"
+    ],
+    "response_ids": [
+      "FAQ_01_claude",
+      "FAQ_01_deepseek",
+      "FAQ_01_gemini",
+      "FAQ_01_gpt4o",
+      "FAQ_01_llama",
+      "FAQ_02_claude",
+      "FAQ_02_deepseek",
+      "FAQ_02_gemini",
+      "FAQ_02_gpt4o",
+      "FAQ_02_llama",
+      "FAQ_03_claude",
+      "FAQ_03_deepseek",
+      "FAQ_03_gemini",
+      "FAQ_03_gpt4o",
+      "FAQ_03_llama",
+      "FAQ_04_claude",
+      "FAQ_04_deepseek",
+      "FAQ_04_gemini",
+      "FAQ_04_gpt4o",
+      "FAQ_04_llama",
+      "FAQ_05_claude",
+      "FAQ_05_deepseek",
+      "FAQ_05_gemini",
+      "FAQ_05_gpt4o",
+      "FAQ_05_llama",
+      "FAQ_06_claude",
+      "FAQ_06_deepseek",
+      "FAQ_06_gemini",
+      "FAQ_06_gpt4o",
+      "FAQ_06_llama",
+      "FAQ_07_claude",
+      "FAQ_07_deepseek",
+      "FAQ_07_gemini",
+      "FAQ_07_gpt4o",
+      "FAQ_07_llama",
+      "FAQ_08_claude",
+      "FAQ_08_deepseek",
+      "FAQ_08_gemini",
+      "FAQ_08_gpt4o",
+      "FAQ_08_llama",
+      "FAQ_09_claude",
+      "FAQ_09_deepseek",
+      "FAQ_09_gemini",
+      "FAQ_09_gpt4o",
+      "FAQ_09_llama",
+      "FAQ_10_claude",
+      "FAQ_10_deepseek",
+      "FAQ_10_gemini",
+      "FAQ_10_gpt4o",
+      "FAQ_10_llama",
+      "FAQ_11_claude",
+      "FAQ_11_deepseek",
+      "FAQ_11_gemini",
+      "FAQ_11_gpt4o",
+      "FAQ_11_llama",
+      "FAQ_12_claude",
+      "FAQ_12_deepseek",
+      "FAQ_12_gemini",
+      "FAQ_12_gpt4o",
+      "FAQ_12_llama",
+      "FAQ_13_claude",
+      "FAQ_13_deepseek",
+      "FAQ_13_gemini",
+      "FAQ_13_gpt4o",
+      "FAQ_13_llama",
+      "FAQ_14_claude",
+      "FAQ_14_deepseek",
+      "FAQ_14_gemini",
+      "FAQ_14_gpt4o",
+      "FAQ_14_llama",
+      "FAQ_15_claude",
+      "FAQ_15_deepseek",
+      "FAQ_15_gemini",
+      "FAQ_15_gpt4o",
+      "FAQ_15_llama",
+      "FAQ_16_claude",
+      "FAQ_16_deepseek",
+      "FAQ_16_gemini",
+      "FAQ_16_gpt4o",
+      "FAQ_16_llama",
+      "FAQ_17_claude",
+      "FAQ_17_deepseek",
+      "FAQ_17_gemini",
+      "FAQ_17_gpt4o",
+      "FAQ_17_llama",
+      "FAQ_18_claude",
+      "FAQ_18_deepseek",
+      "FAQ_18_gemini",
+      "FAQ_18_gpt4o",
+      "FAQ_18_llama",
+      "FAQ_19_claude",
+      "FAQ_19_deepseek",
+      "FAQ_19_gemini",
+      "FAQ_19_gpt4o",
+      "FAQ_19_llama",
+      "FAQ_20_claude",
+      "FAQ_20_deepseek",
+      "FAQ_20_gemini",
+      "FAQ_20_gpt4o",
+      "FAQ_20_llama"
+    ],
+    "started_utc": "2026-10-11T16:03:24.136970+00:00",
+    "finished_utc": "2026-10-11T16:04:28.251437+00:00",
+    "counts": {
+      "called": 200,
+      "skipped_existing": 0,
+      "success": 200,
+      "failed": 0,
+      "retried": 0
+    },
+    "model_discovery_record": "jev_extension\\raw\\model_metadata\\models__full_run01__20261011T160324136970Z.json",
+    "spec_lock": {
+      "spec_version": "1.0.0",
+      "frozen_utc": "2026-10-10T20:18:53.148100+00:00",
+      "scope": "decision wording and context sent to Jev (wording_sha256); full spec file (spec_file_sha256)",
+      "spec_file_sha256": "d3d836f048dae21d0834a8ed05626e35018b0c4f7e6401ea890fa032bad2907d",
+      "wording_sha256": "6fac41fbcba6b2a6ee3719a36bc27c853b9790cbff08c0788bc8128e2cf3bc65",
+      "judge_system_prompt_sha256": "2e5c01019f4e6f64683b1e2171f73118e095c642bbf705f467c92901b0df2901",
+      "n_decisions": {
+        "A_matched": 4,
+        "B_fixed": 2,
+        "B_check_atoms": 9,
+        "B_fatal": 10
+      },
+      "approved_by": "investigator, 2026-10-10 (S1-S7; item 1 split; items 2-3 kept)",
+      "change_policy": "any change requires a new spec_version, a decision-log entry with reason, and must not be informed by agreement with the expert reference"
+    },
+    "phase5_lock_sha256": "12b609ccefd6409da0373d71a8a15567a6c5adaa140474f30b590287329480f6"
+  }
+}

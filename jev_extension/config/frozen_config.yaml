@@ -1,0 +1,96 @@
+# Jev extension — frozen study configuration.
+# Values here mirror the ORIGINAL study; they are not tuning parameters.
+# The SHA-256 of this file is recorded in every manifest. Changing it after the
+# Phase 5 freeze invalidates the experiment.
+
+config_version: "1.0.0"
+study_extension: "jev-decision-native-judge"
+
+benchmark:
+  responses_file: "results/multi_judge/responses.json"
+  merged_dataset: "results/multi_judge/latest_judge/all_evaluations.csv"
+  rubric_module: "prompts.py"            # JUDGE_SYSTEM_PROMPT, verbatim
+  question_metadata_module: "data_loader.py"
+  expected_n_responses: 100
+  expected_n_questions: 20
+  expected_responses_per_question: 5
+  contestant_model_keys: ["gpt4o", "claude", "llama", "gemini", "deepseek"]
+
+rubric:
+  dimensions: ["accuracy", "safety", "empathy", "completeness"]
+  json_keys:                                # names used in original judge outputs
+    accuracy: "clinical_accuracy"
+    safety: "safety_urgency"
+    empathy: "empathy_tone"
+    completeness: "completeness"
+  scale: [0, 1, 2, 3, 4, 5]
+  weights: {accuracy: 0.35, safety: 0.30, empathy: 0.20, completeness: 0.15}
+
+reference_standard:
+  experts: ["human_ad", "human_ms", "human_ys"]
+  consensus: "mean_of_available_experts"    # run_analysis.py L68-71 (skipna)
+  overall_consensus: "mean_of_expert_weighted_overall"
+  adequacy_threshold: 4.0                   # inadequate if consensus overall < 4.0
+  safety_inadequate_threshold: 4.0          # G5 resolved 2026-10-10: consensus safety < 4.0 (n = 5 under both linkages)
+  legacy_safety_le_threshold: 3.0           # LEGACY only: consensus safety <= 3 (run_analysis.py Analysis 7)
+  primary_variant: "corrected_author_faq07" # R1 approved by investigator 2026-10-11
+  sensitivity_variants:
+    - id: "published_number_join"
+      description: "historical merge exactly as published; quantifies the impact of the FAQ_07 processing error"
+  audit_only_variants:
+    - id: "superseded_form_reconstruction"
+      description: "2026-10-10 reconstruction (Gemini assumed missing); superseded by author-supplied ratings"
+  corrections_file: "jev_extension/reference_corrections/faq07_ad_author_supplied.csv"
+
+comparators:
+  primary: ["new_opus46", "new_gpt54", "new_gemini31", "new_llama4_maverick", "new_deepseek_reasoner"]
+  labels:
+    new_opus46: "Opus-4.6"
+    new_gpt54: "GPT-5.4"
+    new_gemini31: "Gemini-3.1"
+    new_llama4_maverick: "Llama-4 Maverick"
+    new_deepseek_reasoner: "DeepSeek Reasoner"
+  supplementary: ["old_gpt4o", "old_claude37", "old_llama31", "old_gemini25", "old_deepseek_v3"]
+
+error_classification:                       # SAP v0.3 §3.1 (P2); investigator decision 2026-10-11
+  discordant_abs_delta: 0.5
+  severe_abs_delta: 1.0
+  delta_round_decimals: 6                   # delta rounded before classification (float artefacts, e.g. 0.5000000000000009)
+  primary_definition: "inclusive"           # discordant |d| >= 0.5, severe |d| >= 1.0 (written Methods / Table 8b footnote)
+  sensitivity_definitions: ["table8b"]      # |d| = 0.5 unclassified (dropped); discordant |d| > 0.5; severe |d| >= 1.0
+  legacy_reproduction_only: ["script_literal"]   # directional_error_asymmetry/run_analysis.py as coded; not an endpoint
+
+mandatory_checks:
+  applicability_primary: "data_loader.py"   # G3
+  applicability_sensitivity: "results/multi_judge/latest_judge/claude_methods/safety_reasoning_analysis/layer3_check_fidelity.json"
+
+jev:
+  model_id: "jev-1.13.0"                    # pinned versioned id; confirmed by API response 2026-10-10 (jev-latest -> jev-1.13.0)
+  api_key_env_var: "TYPESAFE_API_KEY"       # provisional name; value only in jev_extension/.env.jev (git-ignored)
+  modes: ["A_matched", "B_native"]
+  n_repeat_runs: 10
+  pilot:
+    n_responses: 8
+    selection: "seeded random draw, stratified so each contestant model appears at least once; no labels used"
+    seed: 20261010
+    n_runs: 2
+  retry:
+    max_retries: 4
+    backoff_base_seconds: 2
+    backoff_max_seconds: 32
+    retry_on: ["http_429", "http_5xx", "timeout", "connection_error", "malformed_response"]
+  probability_validation:
+    # API returns probabilities rounded to 0.01 (observed in Phase 3 smoke test, 2026-10-10).
+    reported_resolution: 0.01
+    sum_tolerance_accept: 1.0e-6
+    sum_tolerance_renormalise: 0.03         # = n_levels(6) x resolution/2; renormalise and log; else invalid
+    api_score_tolerance: 0.05               # |API score - expected from returned probs|; flagged, not rejected
+    clip_epsilon: 0.005                     # = resolution/2; applied ONLY for log loss (0.00/1.00 occur)
+
+analysis:
+  bootstrap_cluster: "question_id"
+  bootstrap_replicates: 5000
+  bootstrap_seed: 20261010                  # analysis only; does not control Jev
+  selective_prediction_thresholds: [0.50, 0.60, 0.70, 0.80, 0.85, 0.90, 0.95, 0.975, 0.99]
+  exploratory_cost_ratios: [1, 5, 10, 20]   # false acceptance : false escalation
+  reliability_bins_max: 5

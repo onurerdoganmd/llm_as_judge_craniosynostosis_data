@@ -1,0 +1,20 @@
+{
+  "recorded_utc": "2026-10-10",
+  "purpose": "Original-study files that the Jev extension must never modify (QC Part 31).",
+  "sha256": {
+    "results/multi_judge/responses.json": "74c4dbf70dc3ed6350dc5b745c80a854425fa515a089fabd4a77b3376cefdc8f",
+    "results/multi_judge/latest_judge/all_evaluations.csv": "61f2add7eac6f4b57a5411ea442c9d4f37147f52de9768f7d4b58a065023bc02",
+    "prompts.py": "72622ed712aca84faa2f958cb99a1e95c58ac267ee32d737553a21ce7a0b933a",
+    "data_loader.py": "2df7fb3aad31ef755ba2e2ed62c19b8a54e5ce423ece3627bdef38408629ba4c",
+    "build_master_csv.py": "a0ba583f33a29cd0dd347f0bbcbd9fa709ea796d33f78acb140ed8e6427485ee",
+    "results/multi_judge/ad_result/results.csv": "b364429ee02eaee33cf92c9cdf5096675e9bf42a61ca23ae2d2a4f59959d4a94",
+    "results/multi_judge/ms_result/result.xlsx": "24bf390d334056e8e601eef290140e46bccced3f60fdf51afafffab86e9349cf",
+    "results/multi_judge/ys_result/result.csv": "321255ccaa6e4a8f924cc5330f09952d90e910dd83ccbd0cf001a3840489270e",
+    "results/multi_judge/opus_judge_evaluations.json": "29a4a04e016a3308138ac1784cf8ef0ecae0bfd875560565e622ea4c9e20811b",
+    "results/multi_judge/gpt5_judge_batch_evaluations.json": "07082becec23b799db7370eeb689dffa61a36551bf24895dcd3c98aa94c779c6",
+    "results/multi_judge/gemini_judge_evaluations.json": "06959490ed1ab9363ab2c971ff7f8015a9c83fcc7fd603df232f8c06fd016957",
+    "results/multi_judge/llama4_judge_batch_evaluations.json": "c3cffbfe2b4e49f62a19cf6cef93e0299b1573954e0189a794e205f673df1a78",
+    "results/multi_judge/deepseek_reasoner_judge_evaluations.json": "4374866f52e2bfe4b27d44cef89aa3ca59415b5e4a55706c96dee1f7c9a377d1",
+    "results/multi_judge/latest_judge/claude_methods/safety_reasoning_analysis/layer3_check_fidelity.json": "233761740ced2a79bce26183ee33103d051ab1a6eb220e144ae4168f67481148"
+  }
+}

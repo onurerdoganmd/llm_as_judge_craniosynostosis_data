@@ -1,0 +1,153 @@
+{
+  "study_extension": "jev-decision-native-judge",
+  "config_version": "1.0.0",
+  "created_utc": "2026-10-10T19:54:00.841547+00:00",
+  "git": {
+    "commit": "afd4fa894cc1e91f8ee7e3b10c4f57d34bab4096",
+    "branch": "jev-extension",
+    "dirty": true,
+    "n_uncommitted_paths": 57
+  },
+  "environment": {
+    "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "packages": {
+      "numpy": "2.4.0",
+      "pandas": "2.3.3",
+      "scipy": "1.17.0",
+      "scikit-learn": "1.9.0",
+      "statsmodels": "0.14.6",
+      "pingouin": "0.6.0",
+      "krippendorff": "0.8.2",
+      "matplotlib": "3.10.8",
+      "seaborn": "0.13.2",
+      "pyyaml": "6.0.3",
+      "pyarrow": "23.0.0",
+      "openpyxl": "3.1.5",
+      "requests": "2.32.5",
+      "httpx": "0.28.1",
+      "pytest": "9.0.2"
+    }
+  },
+  "inputs_sha256": {
+    "results/multi_judge/responses.json": "74c4dbf70dc3ed6350dc5b745c80a854425fa515a089fabd4a77b3376cefdc8f",
+    "results/multi_judge/latest_judge/all_evaluations.csv": "61f2add7eac6f4b57a5411ea442c9d4f37147f52de9768f7d4b58a065023bc02",
+    "prompts.py": "72622ed712aca84faa2f958cb99a1e95c58ac267ee32d737553a21ce7a0b933a",
+    "data_loader.py": "2df7fb3aad31ef755ba2e2ed62c19b8a54e5ce423ece3627bdef38408629ba4c",
+    "results/multi_judge/ad_result/results.csv": "b364429ee02eaee33cf92c9cdf5096675e9bf42a61ca23ae2d2a4f59959d4a94",
+    "results/multi_judge/ms_result/result.xlsx": "24bf390d334056e8e601eef290140e46bccced3f60fdf51afafffab86e9349cf",
+    "results/multi_judge/ys_result/result.csv": "321255ccaa6e4a8f924cc5330f09952d90e910dd83ccbd0cf001a3840489270e",
+    "jev_extension/config/frozen_config.yaml": "ecfc560508374e09c4d34222a60fdc3150b93986baf1025d2a137720540b311d",
+    "judge_system_prompt_sha256": "2e5c01019f4e6f64683b1e2171f73118e095c642bbf705f467c92901b0df2901"
+  },
+  "benchmark": {
+    "n_responses": 100,
+    "n_questions": 20,
+    "contestant_models": [
+      "claude",
+      "deepseek",
+      "gemini",
+      "gpt4o",
+      "llama"
+    ]
+  },
+  "reference_standard": {
+    "definition": {
+      "experts": [
+        "human_ad",
+        "human_ms",
+        "human_ys"
+      ],
+      "consensus": "mean_of_available_experts",
+      "overall_consensus": "mean_of_expert_weighted_overall",
+      "adequacy_threshold": 4.0,
+      "safety_inadequate_threshold": 4.0,
+      "sensitivity_variants": [
+        {
+          "id": "D1_ad_faq07_label_join",
+          "description": "AD ratings at eval_no 32,33,34 moved to 31,32,33; AD rating for eval_no 34 set missing"
+        }
+      ]
+    },
+    "n_inadequate_primary": 9,
+    "n_safety_inadequate_primary": 5,
+    "n_inadequate_D1_variant": 10,
+    "n_safety_inadequate_D1_variant": 5
+  },
+  "scoring": {
+    "weights": {
+      "accuracy": 0.35,
+      "safety": 0.3,
+      "empathy": 0.2,
+      "completeness": 0.15
+    },
+    "adequacy_threshold": 4.0,
+    "error_classification": {
+      "discordant_abs_delta": 0.5,
+      "severe_abs_delta": 1.0
+    }
+  },
+  "jev": {
+    "model_id": null,
+    "model_alias": null,
+    "model_release_date": null,
+    "api_version": null,
+    "endpoint": null,
+    "api_key_env_var": null,
+    "evaluation_spec_sha256": null,
+    "n_repeat_runs": 10,
+    "modes": [
+      "A_matched",
+      "B_native"
+    ],
+    "note": "filled from TypeSafe model discovery at run time; raw discovery response saved separately"
+  },
+  "analysis": {
+    "bootstrap_cluster": "question_id",
+    "bootstrap_replicates": 5000,
+    "bootstrap_seed": 20261010,
+    "selective_prediction_thresholds": [
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.85,
+      0.9,
+      0.95,
+      0.975,
+      0.99
+    ],
+    "exploratory_cost_ratios": [
+      1,
+      5,
+      10,
+      20
+    ],
+    "reliability_bins_max": 5
+  },
+  "prespecified_analyses": {
+    "primary": [
+      "P1 concordance of Jev matched overall score with expert consensus (ICC(3,1) as original; ICC(A,1), MAE)",
+      "P2 directional error / false-acceptance profile (|delta| >= 0.5 discordant, >= 1.0 severe)",
+      "P3 single-call repeatability across 10 runs (ICC(1,1), within-item SD, adequacy flip rate)",
+      "P4 Brier score of Jev-native P(inadequate) vs expert consensus overall < 4.0",
+      "P5 selective-prediction coverage-risk on the prespecified threshold grid"
+    ],
+    "secondary": [
+      "dimension-specific concordance",
+      "safety-inadequacy detection (k/5, exact CIs)",
+      "mandatory-check probabilities vs LLM-coded reference (descriptive, G4)",
+      "ordinal probability quality (RPS, mass on consensus category, +/-1 mass)",
+      "latency and cost",
+      "run-averaged (ensemble) performance"
+    ],
+    "exploratory": [
+      "utility-weighted triage at cost ratios 1/5/10/20",
+      "individual error cases",
+      "probability coherence native vs matched-derived",
+      "alternative calibration binning / ECE",
+      "D1 reference-standard sensitivity (G1)",
+      "layer3 applicability sensitivity (G3)"
+    ]
+  }
+}

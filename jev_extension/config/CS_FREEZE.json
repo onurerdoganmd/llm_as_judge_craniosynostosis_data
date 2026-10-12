@@ -1,0 +1,33 @@
+{
+  "study": "config_sensitivity (post hoc)",
+  "protocol_version": "1.0",
+  "sap_version": "1.0",
+  "frozen_utc": "2026-10-11T19:41:47.664004+00:00",
+  "approved_by": "investigator, 2026-10-11 (design, B/C choices, preflight, clarifications 1-11)",
+  "model_id": "jev-1.13.0",
+  "applicability_primary_sha256": "0bb1632643cba3362b66e9a0c4245235d9675f3185d2e2d59cbc35b9d1b9631b",
+  "rubric_sha256": "de89feaf26f23d096dff2e9ec066009dc27afd622c0e55db85e85f48d4831cae",
+  "hash_method": "sha256 of LF-normalised bytes",
+  "files_sha256": {
+    "docs/jev_extension/CONFIG_SENSITIVITY_PROTOCOL.md": "900b099df3bb4862b9aa3e2bd039f22b7e1fd245623a46f556992a61dc6f873e",
+    "docs/jev_extension/CONFIG_SENSITIVITY_SAP.md": "c2218ee18f4b467f957d7d65225349119ff5150a5e2ad100152945704e25d0c0",
+    "jev_extension/config_sensitivity/builders.py": "72927f5840cce79d06f60764edb664d5d73d78ed818d2c761deb326fc78b2a40",
+    "jev_extension/config_sensitivity/runner.py": "92db7c6d1545140226ff9105a2909e87d39923c06d9418200c392b73089e0937",
+    "jev_extension/config_sensitivity/validate.py": "12d33c70910439f5159b05e69240dfb07061e790081c0f8042078e1e6ede2a04",
+    "jev_extension/config_sensitivity/analysis.py": "c4fec04de01e8d221a48eaed39c456cd4831bfa0819d96f4f1c6707512345be2",
+    "jev_extension/config_sensitivity/freeze_cs.py": "1e9be2ddc030e8775eb062b7834d6bc8432c345abd08178c2a12358cdc391cee",
+    "jev_extension/config_sensitivity/payload_manifest.json": "6bdbec1a7c3f6c77754fdf9dace03e2233f406737cc7f974b8c038b1c771e28b",
+    "docs/jev_extension/config_sensitivity_templates/A_FAQ_07_claude.json": "5b145052097683a5b14e30ede7e9cd84e7a889a3ab34677c641bc33192d9c9c0",
+    "docs/jev_extension/config_sensitivity_templates/B_FAQ_07_claude.json": "f61983a2e36276e7d1c33326acef3ddf898c76a67170b62c8b50a1574d5c5724",
+    "docs/jev_extension/config_sensitivity_templates/C_FAQ_07_claude.json": "b43874033b9c7914f549bdb38c524f6451202ce66cb0a98dea08b8441f697e02",
+    "docs/jev_extension/config_sensitivity_templates/D1_FAQ_07_claude.json": "34a18e6fa79557d35fd54168b982a24d250d856c644c994aabc897fde612f2f0",
+    "docs/jev_extension/config_sensitivity_templates/D2_FAQ_07_claude.json": "d41e84ced1a6d6526e8cb3c21f55f19a764f3d59f756a3ba6ca9d89925e0b1fe",
+    "jev_extension/spec/jev_spec_v1.json": "d3d836f048dae21d0834a8ed05626e35018b0c4f7e6401ea890fa032bad2907d",
+    "jev_extension/spec/FROZEN.json": "67967663c7b7f9954f2e323b21c830c7988d7ebce967b0bfee412dfe2a31bac2",
+    "prompts.py": "72622ed712aca84faa2f958cb99a1e95c58ac267ee32d737553a21ce7a0b933a",
+    "jev_extension/config/frozen_config.yaml": "a06b3897ed757f917ab5cda81449c24313a69264c5d09abdd477899563bd8921",
+    "jev_extension/config/PHASE5_FREEZE.json": "12b609ccefd6409da0373d71a8a15567a6c5adaa140474f30b590287329480f6"
+  },
+  "phase5_lock_intact_at_freeze": true,
+  "study_api_calls_before_freeze": 0
+}

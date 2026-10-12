@@ -1,0 +1,1364 @@
+eval_no,response_id,question_id,contestant_model,contestant_model_key,model_id,timestamp,response
+1,FAQ_01_gpt4o,FAQ_01,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:29:00.886106,"I'm so sorry to hear about your baby's diagnosis. It's completely natural to feel anxious, but I'm here to help explain things as clearly as possible. Craniosynostosis is a condition where one or more of the sutures in a baby's skull close earlier than they should. These sutures are flexible joints between the bones of the skull, and they usually remain open to allow the brain and skull to grow as your baby develops. When a suture closes prematurely, it can affect the shape of the head and potentially put pressure on the growing brain.
+
+As for why this happens, it's important to know that craniosynostosis is not caused by anything you did or didn't do during pregnancy. The exact cause often isn't known, but it can sometimes be associated with genetic factors. In some cases, craniosynostosis is part of a genetic syndrome, but most often, it occurs without any other underlying health issues.
+
+The good news is that there are effective treatments available. Surgery is typically recommended to correct the shape of the skull and prevent any potential complications related to brain growth. The timing and type of surgery can vary depending on the specific situation, so it's crucial to work closely with your baby's surgical team to determine the best approach.
+
+I know this might feel overwhelming right now, but please remember that you're not alone. Your medical team is there to support you and your baby every step of the way. Always feel free to ask them any questions you have, as they can provide guidance tailored to your baby's unique needs."
+2,FAQ_01_claude,FAQ_01,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:29:12.539128,"I understand how overwhelming and confusing this diagnosis must feel. Let me explain what's happening with your baby.
+
+**What is Craniosynostosis?**
+
+Craniosynostosis occurs when one or more of the fibrous joints (called sutures) in your baby's skull fuse together too early—before the brain has finished growing. Normally, these sutures stay flexible during infancy and early childhood, allowing the skull to expand as the brain grows. When they close prematurely, the skull can't grow normally in that area, so it compensates by growing more in other directions. This creates the unusual head shape you may have noticed.
+
+**How Did This Happen?**
+
+Here's what's important to understand: **this is not your fault**. In most cases (about 80-85%), craniosynostosis happens randomly with no identifiable cause. It's simply a developmental variation that occurs during pregnancy—nothing you did or didn't do caused this.
+
+In the remaining cases, it can be:
+- **Genetic**: Associated with certain genetic syndromes (like Apert, Crouzon, or Pfeiffer syndrome)
+- **Familial**: Rarely runs in families without a specific syndrome
+- **Environmental factors**: Very rarely linked to certain medications or thyroid conditions during pregnancy
+
+The condition affects roughly 1 in 2,500 babies, so while it may feel isolating, you're not alone.
+
+**What Matters Now**
+
+The good news is that craniosynostosis is very treatable. Your surgical team will determine the specific type your baby has and develop the best treatment plan. Early diagnosis—like yours—typically leads to excellent outcomes.
+
+What questions do you have about your baby's specific diagnosis?"
+3,FAQ_01_llama,FAQ_01,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:29:16.136467,"I completely understand your concern, and it's natural to have questions about your baby's diagnosis. Craniosynostosis is a condition where the bones of the skull fuse together prematurely, before they're supposed to. Normally, these bones are connected by flexible joints that allow the skull to expand as the brain grows. When the bones fuse too early, it can put pressure on the growing brain and may cause problems with the shape of the head.
+
+As for how your baby got craniosynostosis, the exact cause is often unknown. However, we do know that it's usually a combination of genetic and environmental factors. Some babies may be born with a family history of the condition, while others may have certain genetic syndromes that increase their risk. Environmental factors, such as the position of the baby in the womb or a lack of space, may also play a role.
+
+It's essential to know that you, as a parent, didn't do anything to cause craniosynostosis. This condition is not a result of anything you did or didn't do during pregnancy. It's simply a condition that affects some babies, and with proper care and treatment, we can help your baby have a healthy and normal life.
+
+Now, I want to reassure you that craniosynostosis is a treatable condition. Our team of pediatric neurosurgeons and specialists will work closely with you to develop a personalized treatment plan for your baby. We'll discuss the best options for your child, including surgery, and address any concerns you may have."
+4,FAQ_01_gemini,FAQ_01,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:29:32.315843,"Of course. Receiving this diagnosis is overwhelming, and your questions are completely valid. Let’s walk through this together.
+
+First and foremost, I want you to hear this: you did nothing to cause this. It is not your fault. Parents often wonder if something they did during pregnancy or after birth led to this, and the answer is a clear no.
+
+So, what is craniosynostosis? Think of your baby’s skull not as one solid bone, but as several bony plates. The flexible seams where these plates meet are called sutures. These sutures are supposed to stay open to allow your baby’s brain, which grows incredibly fast in the first year, to expand. Craniosynostosis occurs when one or more of these sutures fuses together, or closes, too early. This can restrict brain growth in that area and cause the skull to grow in a different, compensatory shape.
+
+As for how it happens, in the vast majority of cases (over 80%), it’s what we call ""isolated"" or ""non-syndromic."" This simply means it happens by chance, for reasons we don't fully understand. It’s a random event, a sort of developmental hiccup. In a smaller number of cases, it can be part of a genetic syndrome that affects other parts of the body. Your care team will carefully evaluate your child to determine this.
+
+The most important takeaway is that craniosynostosis is a well-understood and treatable condition. Our goal is to create space for the brain to grow safely and to improve your baby's head shape. Please write down all your questions and bring them to your next appointment. We are here to support you every step of the way."
+5,FAQ_01_deepseek,FAQ_01,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:29:45.085690,"First, I want to acknowledge how overwhelming this diagnosis can feel. It's completely normal to have questions and concerns, and I'm here to help you understand.
+
+**What it is:** Craniosynostosis is a condition where one or more of the fibrous seams (called sutures) in a baby's skull close too early. A baby's skull is made of several bone plates with soft sutures between them. These sutures allow the skull to expand as the brain grows rapidly in the first years of life. When a suture fuses prematurely, it restricts growth in that direction. The brain continues to grow, which can cause the skull to develop an unusual shape and, in some cases, potentially increase pressure on the growing brain.
+
+**How it happens:** In the vast majority of cases, craniosynostosis occurs by chance during early fetal development. We call this ""non-syndromic,"" meaning it's an isolated finding not linked to other health problems or a specific inherited syndrome. It is not caused by anything you did or didn't do during pregnancy. Less commonly, it can be part of a genetic syndrome, which your pediatrician and surgical team will evaluate for.
+
+The important thing to know is that this is a **structural condition** that skilled pediatric surgical teams treat very successfully. The goal of treatment is to give the brain the space it needs to grow normally. You've taken the first important step by getting a diagnosis, which allows you to plan the next steps with a specialized team.
+
+Please write down all your questions for your neurosurgeon and craniofacial plastic surgeon. They will examine your baby, review any scans, and create a personalized plan for you."
+6,FAQ_02_gpt4o,FAQ_02,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:29:49.974047,"First, I want to say that it's completely natural to have these feelings, and it's important to address them. Please know that craniosynostosis is not caused by anything you did or didn’t do during pregnancy. It’s understandable to seek explanations, but this condition is often sporadic, meaning it occurs without a clear reason. In some cases, it can be associated with genetic factors, but these are not linked to anything a parent did.
+
+Craniosynostosis occurs when one or more of the sutures in a baby’s skull close prematurely. This can affect the shape of the head and sometimes the development of the brain, which is why timely evaluation and treatment are essential. It's important to focus on how we can support your baby moving forward.
+
+The good news is that with appropriate treatment, most children with craniosynostosis go on to lead healthy, active lives. Surgical intervention, often recommended, aims to correct the shape of the skull and prevent any potential complications with brain development. This is a decision made carefully by your healthcare team, considering all aspects of your child’s health.
+
+I encourage you to continue working closely with your pediatric neurosurgeon and care team. They will provide the best guidance tailored to your baby’s specific needs. Remember, you’re not alone in this journey, and there are many resources and support systems available to help you and your family."
+7,FAQ_02_claude,FAQ_02,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:30:00.071880,"I want to be very clear about this: **No, you did not do anything wrong.** Craniosynostosis is not caused by anything you did or didn't do during pregnancy.
+
+This is one of the most common questions I hear from parents, and the guilt you're feeling is completely understandable—but it's also completely unwarranted. Let me explain why:
+
+**What we know about craniosynostosis:**
+- It occurs in about 1 in 2,500 births—it's relatively common
+- In most cases (about 80%), it happens randomly with no identifiable cause
+- The skull bones fuse too early due to developmental factors we can't control or predict
+- It's not related to prenatal vitamins, diet, stress, exercise, or anything you did during pregnancy
+
+**When there ARE known causes:**
+- About 20% of cases are linked to genetic syndromes (like Apert or Crouzon syndrome)
+- These are genetic variations—still nothing you caused
+- Very rarely, certain medications taken during pregnancy may play a role, but even then, the connection isn't definitive
+
+**The important truth:**
+You gave your baby life, you noticed something was different, and you sought medical care. Those are the actions of a loving, attentive parent. Craniosynostosis is treatable, and with proper surgical intervention, the vast majority of children do wonderfully.
+
+Please be kind to yourself. Channel that emotional energy into learning about your baby's treatment options and building a strong support system. Your baby needs a confident, informed parent—not one burdened by misplaced guilt."
+8,FAQ_02_llama,FAQ_02,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:30:02.485827,"I completely understand your concern and worry about the diagnosis of craniosynostosis in your baby. It's natural to wonder if there was something you could have done differently during pregnancy to prevent this condition.
+
+First, let me reassure you that craniosynostosis is a relatively rare condition, and in most cases, there's no clear cause or link to anything you did or didn't do during pregnancy. It's not due to anything you ate, drank, or did – or didn't do – while you were pregnant. Craniosynostosis is often caused by genetic factors, and sometimes it's just a random occurrence.
+
+Research suggests that genetic mutations, as well as environmental factors during fetal development, might contribute to the condition. However, it's essential to note that we still don't fully understand the causes of craniosynostosis, and more research is needed to uncover its underlying mechanisms.
+
+It's crucial to focus on what we can do now to support your baby's health and well-being, rather than worrying about the past. Our priority is to work together with your surgical team to develop a treatment plan that addresses your baby's specific needs.
+
+In the coming days, we'll discuss the options available, including surgery, and I'll be happy to answer any questions you may have. Remember, you're not alone in this journey, and we're here to support you every step of the way."
+9,FAQ_02_gemini,FAQ_02,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:30:19.040730,"Thank you for asking this incredibly important question. It’s one that almost every parent asks, and it comes from a place of deep love and concern.
+
+Let me be very clear: **You did absolutely nothing wrong. This is not your fault.**
+
+For the vast majority of babies with craniosynostosis, the cause is simply unknown. We refer to it as ""sporadic,"" meaning it happens by chance and is not related to anything you did or didn't do during your pregnancy. Think of the skull's sutures as flexible seams that allow your baby's brain to grow. In craniosynostosis, one or more of these seams fused a little too early. This is a random event in fetal development, not a result of your diet, stress levels, activities, or any medications you may have taken.
+
+In a smaller number of cases, craniosynostosis can be linked to a specific genetic syndrome. This is something your medical team will carefully evaluate, but even in these situations, it is not something a parent causes or could have prevented.
+
+Please try to release yourself from any guilt. You have provided a safe and loving environment for your baby. Now, your energy is best spent focusing on the path forward. Your role as a loving, attentive parent is the most important factor in your child's successful treatment and recovery. We are here to partner with you every step of the way to ensure your baby has the very best outcome."
+10,FAQ_02_deepseek,FAQ_02,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:30:30.963163,"First, please know that this is one of the most common questions parents ask, and it's completely understandable. I want to be very clear: **You did nothing wrong to cause your baby's craniosynostosis.**
+
+Craniosynostosis is a condition where one or more of the fibrous seams (sutures) in a baby's skull close too early. In the vast majority of cases, this happens randomly during fetal development. It is not caused by anything you did or didn't do during pregnancy—not by your diet, stress, activity level, or any prenatal vitamins you may have taken.
+
+Think of it like this: as a baby's brain grows, the skull needs to expand. The sutures are the ""expansion joints."" Sometimes, for reasons we don't fully understand, one of these joints fuses prematurely. It's a structural issue, not a result of parenting.
+
+In a small percentage of cases (about 15-20%), craniosynostosis can be part of a genetic syndrome. Your pediatric neurosurgeon and a geneticist can help determine if this is the case for your child through a careful physical exam and possibly genetic testing. However, most of the time, it is an isolated finding in an otherwise healthy baby.
+
+Your focus now is not on the past, but on the future. The most important step is getting connected with a specialized craniofacial team who can evaluate your baby and discuss the best treatment plan, which often involves surgery to allow for normal brain growth and shape. Please be gentle with yourself. This is not your fault."
+11,FAQ_03_gpt4o,FAQ_03,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:30:40.869877,"I understand your concerns about the genetic aspects of craniosynostosis and how it might affect future children. Craniosynostosis can sometimes be linked to genetic factors, but not always. In many cases, it's what we call ""isolated,"" meaning it occurs without a known genetic syndrome or family history. However, about 15-20% of cases are associated with genetic syndromes, which can be inherited.
+
+If craniosynostosis in your child is part of a genetic syndrome, there could be an increased chance that it might affect future children. Genetic counseling can be very helpful in this situation. A genetic counselor can provide more specific information about the likelihood of recurrence in future pregnancies based on your family's unique situation. They can also discuss any genetic tests that might be available.
+
+For isolated craniosynostosis, the risk of it happening again in another child is relatively low, but not zero. The exact cause of isolated craniosynostosis is not fully understood, and both genetic and environmental factors might play a role.
+
+I recommend discussing your concerns with your child's neurosurgical team and possibly a genetic counselor. They can give you personalized advice based on the details of your child's diagnosis. It's completely natural to worry about the future, but having a clear understanding of your situation can help you make informed decisions moving forward. Remember, we're here to support you and your family through this process."
+12,FAQ_03_claude,FAQ_03,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:30:52.210668,"I understand how worried you must be about your current baby and any future children. These are really important questions.
+
+**Is it genetic?**
+
+Craniosynostosis can have genetic causes, but most cases (about 85%) occur sporadically—meaning they happen randomly without a clear inherited pattern. Here's the breakdown:
+
+- **Non-syndromic craniosynostosis** (single suture, no other symptoms): Usually sporadic, though about 2-8% may have a genetic component
+- **Syndromic craniosynostosis** (affecting multiple sutures with other features like hand/foot abnormalities): More likely to be genetic, involving specific gene mutations (FGFR2, FGFR3, TWIST1, among others)
+
+**Will your next child have it?**
+
+The recurrence risk depends on the type:
+
+- **For sporadic cases**: The risk is very low, typically 2-5% for future children
+- **For syndromic cases**: Risk can be up to 50% if a parent carries the mutation, though many cases are new (de novo) mutations
+- **Family history matters**: If there's a family history of craniosynostosis, the risk increases
+
+**What you should do:**
+
+1. Ask your surgical team whether genetic testing is recommended for your baby
+2. Consider genetic counseling—they can assess your specific situation and provide personalized risk estimates
+3. If you're planning future pregnancies, discuss this with a genetic counselor who can explain testing options
+
+The good news is that even if another child were affected, early detection and treatment lead to excellent outcomes. Your awareness and vigilance would ensure prompt care.
+
+Would you like to discuss genetic testing options or what signs to watch for in future children?"
+13,FAQ_03_llama,FAQ_03,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:30:55.147683,"I completely understand your concerns, and I'm here to help you navigate this diagnosis. Craniosynostosis, also known as premature closure of the skull bones, can be a complex condition with multiple factors contributing to its development.
+
+While the exact cause of craniosynostosis is often unknown, research suggests that it is a multifactorial condition, meaning both genetic and environmental factors can play a role. Some cases of craniosynostosis are associated with genetic syndromes, such as Crouzon, Apert, or Pfeiffer syndromes, which can be inherited from one or both parents. However, most cases of craniosynostosis are isolated, meaning they occur without a known family history or genetic syndrome.
+
+Regarding the likelihood of your next child having craniosynostosis, the risk is generally low, but it depends on the specific circumstances of your child's diagnosis. If your child has a genetic syndrome associated with craniosynostosis, the risk of having another affected child may be higher.
+
+However, for most cases of isolated craniosynostosis, the risk of recurrence is relatively low, around 2-5%. A thorough evaluation by a geneticist can help assess your family's specific risk factors and provide guidance on the likelihood of recurrence.
+
+It's essential to remember that every child is unique, and many factors can influence the development of craniosynostosis. I encourage you to discuss your concerns and any family history with your child's surgical team, including a pediatric neurosurgeon and a geneticist, to better understand the situation and any potential risks for future pregnancies.
+
+Please know that you're not alone in this journey, and we're here to support you and your child every step of the way."
+14,FAQ_03_gemini,FAQ_03,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:31:13.076629,"That is an excellent and very common question. It’s completely natural to be thinking about your family's future, and I want to provide you with the clearest information possible.
+
+The answer depends on the type of craniosynostosis your baby has. It’s helpful to think about two main categories:
+
+1.  **Non-Syndromic Craniosynostosis:** This is the most common type, accounting for over 80% of cases. It means the craniosynostosis is an isolated issue, not part of a larger genetic syndrome. In these instances, it is usually considered ""sporadic,"" meaning it happens by chance. While there may be some minor genetic predispositions we don't fully understand, it is not typically inherited in a predictable pattern. For families in this situation, the chance of having another child with craniosynostosis is very low—generally estimated to be around 2-4%.
+
+2.  **Syndromic Craniosynostosis:** A smaller number of cases are part of a specific genetic syndrome (like Apert, Crouzon, or Pfeiffer syndrome). These syndromes are caused by a change in a specific gene and often involve other physical characteristics in the face, hands, or feet. If your child's condition is syndromic, the chance of it occurring in a future child can be significantly higher, sometimes up to 50%, depending on the specific syndrome and parents' genetic makeup.
+
+To determine which category your child falls into, your craniofacial team will perform a thorough evaluation. The best next step is to discuss this with them directly. They may recommend a consultation with a geneticist or a genetic counselor. These specialists can review your family history, examine your baby for any subtle signs of a syndrome, and discuss if genetic testing would be helpful. This will give you the most accurate and personalized information for your family."
+15,FAQ_03_deepseek,FAQ_03,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:31:25.046138,"I can hear the worry in your question, and it's completely understandable. You're thinking about your current child's health and your future family, which shows how much you care. Let's talk about what we know.
+
+In most cases, craniosynostosis is **not** directly inherited from parents in a simple pattern. The majority of babies with a single fused suture (like sagittal or metopic synostosis) have what we call ""non-syndromic"" craniosynostosis. This often happens by chance, without a clear family history or an identified genetic cause. For these children, the risk to future siblings is generally low—typically quoted as around 3-5%, which is slightly higher than the general population risk but still relatively low.
+
+However, in about 15-20% of cases, craniosynostosis is part of a genetic syndrome (like Apert, Crouzon, or Pfeiffer syndrome). These are caused by specific gene changes and **can** be inherited. If your child's surgical team suspects a syndrome based on other physical features, they will likely recommend a genetics evaluation. This consultation is crucial for understanding the specific pattern of inheritance and your family's precise risks.
+
+The most important next step is to discuss this thoroughly with your child's craniofacial team, including a genetic counselor if recommended. They can review your child's specific diagnosis, examine for any syndromic features, and provide you with personalized, evidence-based guidance for your family planning. Please know you are not alone in navigating these questions."
+16,FAQ_04_gpt4o,FAQ_04,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:31:30.950974,"First and foremost, I want to acknowledge how concerning it can be to receive a diagnosis of craniosynostosis for your baby. It's completely normal to feel anxious, and I'm here to guide you through the process with as much clarity and support as possible.
+
+Craniosynostosis is typically diagnosed through a combination of a physical examination and imaging tests. During the physical exam, your doctor will look for signs like an unusual head shape or facial asymmetry, which can indicate that one or more of the skull sutures have fused prematurely. 
+
+To confirm the diagnosis, imaging tests are often necessary. The most common test used is a CT scan (computed tomography). A CT scan provides detailed images of the skull and can clearly show whether a suture has fused early. This test is crucial because it helps to differentiate craniosynostosis from other conditions that might cause similar head shape changes.
+
+In some cases, an X-ray might be used, but CT scans are generally preferred for their detail. Additionally, a 3D reconstruction of the CT images can help the surgical team plan the best approach for treatment.
+
+These tests are important because they give us a clear picture of the situation, allowing us to tailor the treatment to your baby’s specific needs. While the idea of CT scans can be worrying due to radiation exposure, rest assured that the amount used is minimal and the benefits of accurate diagnosis and treatment planning outweigh the risks.
+
+It's essential to work closely with your baby’s medical team to ensure you understand the steps involved and feel comfortable with the process. They'll be there to support you every step of the way, and I encourage you to reach out to them with any questions or concerns you might have."
+17,FAQ_04_claude,FAQ_04,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:31:42.015552,"I understand how concerning it must be to navigate this diagnosis. Let me walk you through how craniosynostosis is typically diagnosed and what to expect.
+
+**Initial Diagnosis:**
+
+Most cases are first noticed through **physical examination**. Your pediatrician or specialist will carefully feel your baby's skull, checking for:
+- Abnormal head shape
+- A hard, raised ridge along the affected suture
+- Missing ""soft spots"" (fontanelles)
+- Asymmetry in facial or head features
+
+**Imaging Tests:**
+
+If craniosynostosis is suspected, your doctor will likely order:
+
+1. **CT Scan (3D)** - This is the gold standard. It provides detailed images of the skull bones and sutures, showing exactly which sutures have fused prematurely. The radiation exposure is minimal and considered safe for this important diagnosis.
+
+2. **X-rays** - Sometimes used as an initial screening tool, though less detailed than CT.
+
+3. **Ultrasound** - May be used in very young infants (under 6 months) as a radiation-free option, though it's less comprehensive.
+
+**Additional Evaluations:**
+
+Depending on your baby's situation, the team may recommend:
+- **Genetic testing** - If syndromic craniosynostosis is suspected
+- **Eye examination** - To check for increased intracranial pressure
+- **Developmental assessment** - To establish a baseline
+
+**What This Means for You:**
+
+These tests help your surgical team create a personalized treatment plan. The good news is that diagnosis is straightforward, and early detection allows for optimal timing of intervention.
+
+Don't hesitate to ask your surgeon which tests they recommend and why—understanding the ""why"" can help ease anxiety."
+18,FAQ_04_llama,FAQ_04,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:31:44.919826,"I completely understand your concerns, and it's natural to feel worried when your baby is facing a medical condition. Diagnosing craniosynostosis typically involves a combination of physical examination, medical history, and imaging tests.
+
+During the initial consultation, your pediatrician or a specialist like myself will perform a thorough examination of your baby's head, looking for signs of craniosynostosis, such as an abnormal head shape, ridging, or soft spots on the head. We'll also ask questions about your baby's birth, development, and any symptoms you've observed.
+
+Imaging tests are usually necessary to confirm the diagnosis. The most common tests include:
+
+1. Computed Tomography (CT) scans: These provide detailed images of your baby's skull, which can help identify the type and location of craniosynostosis. CT scans are often recommended as the first line of imaging due to their high accuracy.
+2. Magnetic Resonance Imaging (MRI) scans: These tests provide detailed images of the brain and skull, and can help identify any potential complications, such as hydrocephalus or Chiari malformation.
+3. 3D CT scans or Cranial Ultrasound: These tests can also provide detailed images of your baby's skull, but may be recommended as a follow-up or in specific cases.
+
+It's essential to note that a diagnosis can usually be made within a few months of birth, and early detection is crucial in planning the best course of treatment. As a parent, it's natural to feel anxious, but rest assured that craniosynostosis is a treatable condition, and our goal is to work with you to ensure the best possible outcome for your baby.
+
+Please consult with your baby's surgical team to discuss their specific recommendations for diagnosis and treatment. They will be able to provide personalized guidance based on your baby's unique case."
+19,FAQ_04_gemini,FAQ_04,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:32:03.825689,"Thank you for asking this important question. It’s completely understandable to feel worried and want to know exactly what to expect as your baby goes through the diagnostic process. Please know that we have a very clear and safe path to confirm the diagnosis and create the best possible treatment plan for your child.
+
+The diagnosis of craniosynostosis is typically a two-step process:
+
+**1. Physical Examination:**
+The first and most important step is a thorough physical exam by a specialist, like a pediatric neurosurgeon or craniofacial surgeon. We will gently feel your baby’s head, paying close attention to its shape. We are looking for the characteristic head shape associated with a specific suture fusion (for example, a long, narrow head in sagittal synostosis). We will also feel for a hard ridge over the suture line and check the soft spots (fontanelles), which may be smaller than expected or closed. For many experienced teams, the physical exam provides a very strong indication of the diagnosis.
+
+**2. Imaging Study:**
+To confirm the diagnosis and plan for surgery, we use a specialized imaging test. The gold standard is a **low-dose, 3D CT scan** of your baby’s head. This scan is very quick, usually taking less than a minute. It gives us a beautiful, detailed 3D picture of the skull bones. This allows us to see precisely which suture (or sutures) has closed and to plan the safest and most effective surgical approach for your baby’s specific needs. While any scan can sound scary, please be reassured that we use protocols designed specifically for infants to keep the radiation exposure extremely low.
+
+In some cases, your pediatrician may have started with a skull X-ray, but a CT scan is necessary for definitive surgical planning. Occasionally, if there are concerns about a related genetic syndrome, a consultation with a geneticist may be recommended, but this is not needed for most children.
+
+The most important thing is that these tests give your surgical team all the information they need to provide the best care. Please be sure to write down any questions you have and bring them to your next appointment. We are here to walk you through every step."
+20,FAQ_04_deepseek,FAQ_04,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:32:15.783598,"First, I want to acknowledge how stressful this time must be for you. It's completely normal to feel worried and to have questions about what your baby will go through. You're doing the right thing by seeking information.
+
+Diagnosing craniosynostosis typically starts with a physical exam. Your pediatrician or a specialist will carefully feel your baby's head for ridges along the suture lines and look for an unusual head shape. They will also measure your baby's head circumference to track its growth over time.
+
+The most important test to confirm the diagnosis is a **CT scan (computed tomography)** of your baby's head. This is a quick, specialized X-ray that creates detailed 3D pictures of the skull bones. It allows the surgical team to see exactly which suture (or sutures) has fused prematurely and to plan for surgery if it's needed. Sometimes, an ultrasound may be used initially in very young infants, but a CT scan is the definitive test for surgical planning.
+
+Please know that while the word ""surgery"" is frightening, the goal is to give your baby's brain the space it needs to grow normally. The diagnosis process is designed to be as efficient and accurate as possible so your family and the medical team can make the best plan together.
+
+Your next step is to consult with a pediatric neurosurgeon and a pediatric craniofacial plastic surgeon. They will review all the imaging with you, explain the specific type of craniosynostosis your baby has, and discuss the recommended treatment options and timing. You are not alone in this."
+21,FAQ_05_gpt4o,FAQ_05,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:32:21.003668,"I completely understand your concerns and the stress that comes with trying to make sense of medical terms and diagnoses. Let me help clarify the difference between plagiocephaly and craniosynostosis, as it's a common question for many parents.
+
+Plagiocephaly, often referred to as ""flat head syndrome,"" is a condition where a baby's head has a flat spot or is slightly misshapen. This is usually due to external pressures, such as a baby spending a lot of time lying on their back. It doesn’t involve any fusion of the skull bones, and the condition often improves with time, positional changes, and sometimes helmets.
+
+Craniosynostosis, on the other hand, is a condition where one or more of the sutures—the flexible joints between the bones of a baby's skull—close prematurely. This can affect the shape of the head and potentially impact brain growth, which is why it's important to address it. Treatment typically involves surgery to correct the shape of the skull and allow for normal brain development.
+
+In terms of your doctor's diagnosis, it’s important to trust that they have thoroughly evaluated your child's condition. It's common for doctors to use imaging like X-rays or a CT scan to confirm craniosynostosis. However, if you’re unsure or want further reassurance, it's perfectly okay to seek a second opinion. A pediatric neurosurgeon or craniofacial specialist can review your child's case and provide additional insights.
+
+Your child’s medical team is there to support you and ensure the best possible outcome, so don’t hesitate to reach out with any questions or concerns you have along the way."
+22,FAQ_05_claude,FAQ_05,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:32:34.643360,"I completely understand your concern—distinguishing between these two conditions is actually one of the most important diagnostic challenges we face, and it's a great question.
+
+**Key Differences:**
+
+**Plagiocephaly (Positional/Deformational):**
+- Caused by external pressure on a baby's soft skull (like favoring one sleeping position)
+- The skull sutures are OPEN and normal
+- Head shape improves with repositioning, physical therapy, or sometimes a helmet
+- Not a surgical condition
+- Very common (affects up to 47% of infants to some degree)
+
+**Craniosynostosis:**
+- One or more skull sutures have fused prematurely (closed too early)
+- Requires surgery to allow proper brain growth
+- Won't improve with repositioning alone
+- Less common (affects about 1 in 2,500 births)
+
+**Could There Be a Diagnostic Error?**
+
+While misdiagnosis can occur, there are reliable ways to confirm:
+
+- **Physical exam**: Experienced specialists can often feel whether sutures are fused
+- **CT scan**: The gold standard—clearly shows whether sutures are open or closed
+- **X-rays**: Can help but are less definitive than CT
+
+**What You Should Do:**
+
+If you have doubts about the diagnosis, you have every right to:
+1. Ask your doctor to explain exactly what they found on imaging
+2. Request a second opinion from another craniofacial specialist
+3. Ask whether a CT scan was done (if diagnosis was based only on physical exam, you might request imaging)
+
+Trust your instincts as a parent, but also know that craniofacial specialists are highly trained in making this distinction. If craniosynostosis was diagnosed, it was likely based on clear evidence.
+
+What specific concerns led to the diagnosis in your baby's case?"
+23,FAQ_05_llama,FAQ_05,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:32:38.087849,"I completely understand your concern and desire for clarity. As a pediatric neurosurgeon, I'd like to reassure you that both plagiocephaly and craniosynostosis are conditions that affect the shape of a baby's head, but they have distinct differences.
+
+Plagiocephaly, also known as positional molding, is a condition where a baby's head becomes misshapen due to external pressure, often caused by sleeping in the same position or being positioned in a car seat or carrier. This condition is usually not associated with any underlying bone abnormality and can often be treated with repositioning techniques, physical therapy, or in some cases, a molding helmet.
+
+Craniosynostosis, on the other hand, is a condition where the bones of the skull fuse together prematurely, affecting the normal growth and shape of the head. This can lead to increased intracranial pressure, vision problems, and other complications if left untreated.
+
+It's possible for a diagnosis to be incorrect, but in most cases, a thorough evaluation by a qualified professional, including a physical examination, medical history, and imaging studies (such as CT or X-ray scans), can accurately determine the presence of craniosynostosis.
+
+If you have concerns about your baby's diagnosis, it's essential to discuss them with your child's surgical team. They can review the diagnostic tests, explain their findings, and provide guidance on the best course of treatment. It's also crucial to work with a specialist who has experience in treating craniosynostosis to ensure your baby receives the most effective care.
+
+Remember, as a parent, it's natural to have questions and concerns. Don't hesitate to ask, and we'll work together to ensure your baby receives the best possible care."
+24,FAQ_05_gemini,FAQ_05,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:32:58.092177,"Thank you for reaching out with this very important question. It is completely understandable to feel worried and to want to be absolutely certain about your baby's diagnosis. You are being a wonderful advocate for your child by seeking to understand this better.
+
+The key difference between positional plagiocephaly and craniosynostosis lies in the skull's sutures—the flexible seams between the bony plates of your baby's head.
+
+In **positional plagiocephaly**, these sutures are open and normal. The flattening on the back or side of the head is caused by external pressure, typically from the baby consistently lying in one position. Think of it like a soft ball of dough that gets a flat spot if left sitting on a counter. This is a ""shaping"" issue, not a ""fusion"" issue, and is often treated with repositioning, physical therapy, or sometimes a custom helmet.
+
+In **craniosynostosis**, one or more of those sutures has closed (fused) together too early. Because your baby's brain is growing rapidly, it can't expand in the area of the fused suture. To make room, the skull compensates by growing more in other directions, leading to a characteristic head shape. This is a ""fusion"" issue that requires surgery to release the fused suture, allowing the brain to grow normally and preventing potential pressure buildup.
+
+Regarding whether a diagnosis could be wrong—it's a fair question. An experienced craniofacial specialist can often tell the difference with a physical exam by looking at specific features like ear position and the overall head shape. However, if there is any doubt, a CT scan is the definitive way to see if the sutures are open or closed.
+
+Please feel comfortable asking your team exactly how they made the diagnosis. You can ask, ""What specific signs pointed you to craniosynostosis instead of plagiocephaly?"" and ""Was a CT scan performed to confirm it?"" Getting the correct diagnosis is the critical first step, and your team is there to walk you through their findings and ensure you feel confident in the path forward."
+25,FAQ_05_deepseek,FAQ_05,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:33:11.963238,"I can hear the worry in your question, and it's completely understandable. It's very common for parents to be confused by these terms, and you're right to seek clarity. Let me explain the key difference, which is crucial.
+
+**Plagiocephaly** (often called ""flat head syndrome"") is a **shape** issue. It happens when external pressure—like from always sleeping on the back—flattens one part of a baby's soft, malleable skull. The skull bones themselves are normal and the soft spots (sutures) between them are open. This is very common and is often managed with repositioning, physical therapy, or, in some cases, a helmet.
+
+**Craniosynostosis** is a **structural** issue. It means one or more of the fibrous seams (sutures) between the skull bones have fused too early, before the brain is done growing. This prevents the skull from expanding normally in certain directions, which can affect head shape and, more importantly, can put pressure on the growing brain.
+
+**Could the doctor be wrong?** While it's always possible, pediatricians and specialists are trained to distinguish between the two. A physical exam often reveals telltale signs. The gold standard for confirming craniosynostosis is a **CT scan**, which shows the bones and sutures clearly. If you have any doubt, it is absolutely appropriate to ask for a referral to a pediatric neurosurgeon or craniofacial specialist for a definitive evaluation. Trust your instincts as a parent—seeking a second opinion is a common and reasonable step for peace of mind.
+
+Your concern shows how much you care. Getting the correct diagnosis is the first and most important step to ensuring your baby gets the right care, if any is needed."
+26,FAQ_06_gpt4o,FAQ_06,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:33:20.856883,"I completely understand your concerns about your baby's diagnosis with craniosynostosis. It's natural to feel worried when facing decisions about surgery for your little one. Let's talk through some of the important aspects to help you feel more informed.
+
+Craniosynostosis involves the premature fusion of one or more sutures in a baby's skull, which can affect the shape of the head and, more importantly, potentially impact brain development as your baby grows. Whether or not your baby needs surgery depends on several factors, including the specific sutures involved, the severity of the condition, and how it's affecting your baby's health and development.
+
+Surgery is often recommended to correct the shape of the skull, allow for normal brain growth, and reduce the risk of future complications such as increased intracranial pressure, developmental delays, or issues with vision. The timing and type of surgery can vary, and your surgical team will work with you to determine the best plan for your child.
+
+If surgery is recommended and not performed, there can be risks. These may include persistent head shape abnormalities, potential developmental delays, or other complications due to restricted brain growth. However, every case is unique, and your surgical team is the best resource to discuss how these possibilities might relate to your child's specific situation.
+
+I encourage you to have an open and thorough conversation with your baby's medical team. They can provide detailed information about the risks and benefits of surgery for your child's particular case, helping you make the best decision for your family. Remember, you're not alone in this, and there's a team of experts ready to support you and your baby."
+27,FAQ_06_claude,FAQ_06,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:33:32.364286,"I understand how frightening it is to hear your baby needs surgery. Let me help you understand what's at stake.
+
+**Why surgery is typically necessary:**
+
+Craniosynostosis means one or more skull sutures have fused prematurely. Unlike a cosmetic issue, this creates real medical concerns:
+
+- **Brain growth restriction**: Your baby's brain triples in size during the first year. A fused skull can't expand properly, potentially causing increased intracranial pressure, developmental delays, and vision problems.
+- **Severity matters**: Single-suture synostosis (like sagittal) is different from multi-suture involvement. Your surgeon has assessed your baby's specific situation.
+
+**What happens without surgery:**
+
+The consequences depend on which sutures are affected and how severe the fusion is:
+
+- Abnormal head shape that worsens over time
+- Possible increased pressure on the developing brain
+- Risk of developmental delays or cognitive issues
+- Potential vision problems
+- Headaches and discomfort as your child grows
+
+**Important considerations:**
+
+Surgery is typically recommended between 3-12 months of age because:
+- The skull bones are easier to reshape
+- Recovery is faster
+- Outcomes are significantly better
+- Your baby won't remember the experience
+
+**However**, every case is unique. Some very mild cases might be monitored, but this is rare and requires close follow-up.
+
+**Next steps:**
+
+Ask your surgical team:
+- What type of craniosynostosis does my baby have?
+- What are the risks of waiting?
+- What are the surgical risks versus non-surgical risks?
+
+This is a decision you should make with complete information from your team, but please know that surgery is recommended because the benefits strongly outweigh the risks in most cases."
+28,FAQ_06_llama,FAQ_06,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:33:34.585328,"I completely understand your concerns and questions about your baby's diagnosis of craniosynostosis. It's natural to feel overwhelmed and want the best possible outcome for your child.
+
+Surgery is often the recommended treatment for craniosynostosis, as it can help correct the abnormal shape of the skull, improve brain growth, and reduce the risk of complications. However, the decision to proceed with surgery depends on the type and severity of your baby's condition, as well as their individual needs.
+
+If left untreated, craniosynostosis can lead to potential complications, such as increased intracranial pressure, vision problems, and developmental delays. In some cases, it may also affect your child's self-esteem and social interactions as they grow older.
+
+That being said, not all cases of craniosynostosis require immediate surgery. In some instances, your child's surgical team may recommend monitoring their condition with regular check-ups and imaging studies to assess the progression of the condition. This is usually the case for mild or non-syndromic forms of craniosynostosis.
+
+It's essential to consult with your child's surgical team to discuss the best course of treatment for their specific condition. They will assess your baby's unique needs and provide personalized recommendations. Remember, every child is different, and what works for one child may not work for another.
+
+In some cases, delaying treatment may not be advisable, especially if your child is at risk of developing increased intracranial pressure or other complications. Your surgical team will advise you on the urgency of the situation and help you make an informed decision.
+
+Please don't hesitate to ask me any further questions or concerns you may have. I'm here to support you and your child throughout this journey."
+29,FAQ_06_gemini,FAQ_06,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:33:54.573924,"Thank you for asking this incredibly important question. It is completely understandable to feel worried and to want to be certain about the best path forward for your child. Hearing your baby needs surgery is one of the hardest things for a parent to process.
+
+For true craniosynostosis, surgery is the standard and recommended treatment. The reason is that one or more of the skull’s flexible seams, called sutures, have fused together too early. Your baby’s brain is growing incredibly fast in this first year, and it needs space to expand evenly. When a suture is fused, it can restrict this growth.
+
+If left untreated, the primary concern is the potential for increased pressure inside the skull. As the brain grows against a skull that can’t expand properly, this pressure can build. In some cases, this may lead to developmental delays, persistent headaches, or vision problems down the road. The goal of surgery is to prevent this from happening. Secondly, without intervention, the head will continue to grow in a compensatory way, which can make the unusual head shape more pronounced over time.
+
+The surgery works by releasing the fused suture, essentially giving the brain the room it needs to grow freely. By performing the procedure early, we can harness your baby’s own rapid brain growth to help naturally reshape the skull into a more typical form.
+
+This is a journey, and you are your child's best advocate. I strongly encourage you to have a detailed discussion with your pediatric neurosurgeon and craniofacial team. They can explain the specific risks and benefits for your baby's unique situation and answer every question you have. No question is too small."
+30,FAQ_06_deepseek,FAQ_06,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:34:07.799827,"I can hear the worry in your question, and it's completely understandable. This is a heavy decision for any parent. Let me walk you through what we know, so you can feel more informed when you speak with your surgical team.
+
+First, not every case of craniosynostosis requires immediate surgery. The decision depends heavily on the type (which suture is fused), the severity, and whether it's causing or is likely to cause problems. The primary goals of treatment are to allow for normal brain growth and to improve head shape.
+
+If the fused suture is not treated, there are two main concerns. First, the skull cannot expand properly in the direction of the fused suture. As your baby's brain grows rapidly in the first year, this can create increased pressure inside the skull (intracranial pressure). This pressure can potentially lead to developmental delays, vision problems, or persistent headaches. Second, the unusual head shape will become more pronounced over time and will not correct itself.
+
+For some single-suture, non-syndromic cases with very mild deformity and no signs of pressure, a team might recommend close observation. However, for most babies, surgery is the only way to release the fused bone and reshape the skull to give the brain the space it needs to grow normally. The surgery is highly effective and performed by specialized teams with excellent safety records.
+
+Your next step is a detailed discussion with your pediatric neurosurgeon and craniofacial plastic surgeon. They will review your baby's specific 3D CT scan, examine them thoroughly, and give you their expert recommendation on whether and when surgery is needed. Please bring all your questions to that appointment. You are your child's best advocate."
+31,FAQ_07_gpt4o,FAQ_07,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:34:13.986812,"I completely understand your concerns and wanting the best possible care for your baby. It's natural to feel anxious when faced with a decision about surgery. Let me explain both procedures to help you feel more informed.
+
+Endoscopic surgery is a minimally invasive procedure typically performed when the baby is younger, ideally before six months of age. It involves making small incisions and using a camera to remove the fused suture. This approach usually results in less scarring, shorter hospital stays, and quicker recovery times. However, it often requires your baby to wear a molding helmet afterward to help shape the skull as it grows.
+
+Open surgery, also known as cranial vault remodeling, is more traditional and can be performed at a slightly older age. This procedure involves a larger incision and direct reshaping of the skull. It allows for immediate correction and doesn’t typically require post-operative helmets. Recovery might take a bit longer compared to the endoscopic option, and there might be more visible scarring initially.
+
+Neither approach is universally ""better"" than the other; it depends on your baby's specific condition, age, and overall health. Both surgeries have been shown to be safe and effective, with the goal of allowing your baby’s brain to grow and develop properly.
+
+The best course of action is to discuss these options with your baby's surgical team. They can provide personalized advice based on the latest guidelines and your child's unique needs. Remember, you’re not alone in this, and your surgical team is there to support you every step of the way."
+32,FAQ_07_claude,FAQ_07,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:34:25.593896,"I understand you're trying to make the best decision for your baby, and both surgical approaches have excellent outcomes when performed by experienced teams.
+
+**Endoscopic Surgery (Minimally Invasive):**
+- Performed earlier (typically 2-4 months old)
+- Smaller incisions, less blood loss, shorter hospital stay (often 1 day)
+- Requires helmet therapy afterward for 6-12 months
+- Works by releasing the fused suture and allowing natural brain growth to reshape the skull
+- Best for single-suture synostosis
+
+**Open Cranial Vault Remodeling:**
+- Usually performed at 6-12 months old
+- Larger incision, more extensive reshaping of skull bones
+- Longer surgery and hospital stay (3-5 days)
+- No helmet needed afterward
+- Can address more complex patterns and achieve more dramatic reshaping
+
+**Which is ""better""?**
+Honestly, there's no universal answer—it depends on your baby's specific diagnosis, age, and your family situation. Research shows both achieve excellent cosmetic and developmental outcomes.
+
+**Consider:**
+- Your baby's age and type of craniosynostosis
+- Your ability to manage helmet therapy (requires strict compliance)
+- Your surgeon's expertise (surgeons tend to excel with their preferred method)
+- Insurance coverage and travel requirements
+
+The ""best"" surgery is the one your experienced craniofacial team recommends for your child's unique situation. Don't hesitate to ask your surgeon why they're recommending their approach—they know your baby's specific anatomy.
+
+What type of craniosynostosis does your baby have? That might help clarify which approach makes most sense."
+33,FAQ_07_llama,FAQ_07,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:34:29.377090,"I completely understand your concerns, and it's natural to have questions about the treatment options for your little one. Craniosynostosis treatment can be overwhelming, but I'm here to guide you through it.
+
+Endoscopic surgery and open surgery are two different approaches for treating craniosynostosis. The main difference lies in the technique, recovery time, and the extent of the procedure.
+
+Endoscopic surgery is a minimally invasive procedure where a small camera (endoscope) and specialized instruments are used to correct the skull shape. It involves making several small incisions, usually around 1-2 cm long. This technique is often recommended for babies under 6-8 months old, as their skulls are still relatively soft and pliable. The benefits of endoscopic surgery include less blood loss, a shorter hospital stay, and potentially fewer complications.
+
+On the other hand, open surgery, also known as cranial vault remodeling, is a more traditional approach. It involves making a larger incision to access the affected area, allowing the surgeon to reshape and reposition the bones. This technique is often used for older babies or those with more complex cases.
+
+Which one is better? Well, it really depends on your child's specific situation and the expertise of your surgical team. Both methods have their advantages and disadvantages. Endoscopic surgery may have a shorter recovery time, but it may not be suitable for all types of craniosynostosis. Open surgery can offer more precise reshaping, but it may carry a higher risk of complications.
+
+It's essential to discuss your child's unique needs with your surgical team. They will assess the severity of the condition, your child's age, and overall health to determine the best course of treatment. As a parent, you play a vital role in this decision-making process. Together, you and your team can make an informed decision that's tailored to your child's specific needs.
+
+Remember, the goal of any treatment is to ensure your child's safety and optimal outcome. By working closely with your surgical team, you can make the best decision for your little one."
+34,FAQ_07_gemini,FAQ_07,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:34:46.335113,"That is an excellent and very common question. It’s completely understandable to want to know all the options and what they mean for your baby. Let’s walk through the differences.
+
+Think of it as two different tools to achieve the same goal: giving your baby's brain the space it needs to grow and creating a safe, natural head shape.
+
+**Endoscopic Surgery** is a minimally invasive approach. We make one or two small incisions and use a tiny camera (an endoscope) and special instruments to go in and remove the fused suture (the seam between skull bones).
+*   **Best for:** Very young infants, typically under 4 months old.
+*   **The Process:** It's a shorter surgery with less blood loss and a quicker hospital stay.
+*   **After Surgery:** Your baby will need to wear a custom-molded helmet for several months. The helmet doesn't squeeze the head; it gently guides the skull’s growth into a more typical shape as the brain expands.
+
+**Open Surgery**, often called Cranial Vault Remodeling (CVR), is a more traditional approach.
+*   **Best for:** Babies who are a bit older, usually 6 months or more.
+*   **The Process:** We make a larger incision, typically from ear to ear across the top of the head (hidden within the hairline). This allows us to directly see and carefully reshape the skull bones, moving them into a better position.
+*   **After Surgery:** This is a longer surgery with a longer hospital stay. However, a helmet is not usually needed afterward because the reshaping is done all at once.
+
+**So, which is better?**
+
+The most important thing to know is that **neither one is universally ""better"" than the other.** The ""better"" surgery is the one that is safest and most effective for *your individual child*.
+
+The decision depends on several factors: your baby's exact age, which suture is fused, the overall head shape, and your family's preferences. Both approaches have excellent, proven long-term outcomes when performed by an experienced craniofacial team.
+
+This is a decision you will make together with your surgeons. We will review all the details of your baby's case and help you choose the path that is right for your family."
+35,FAQ_07_deepseek,FAQ_07,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:34:59.191460,"I understand how overwhelming it can be to face this diagnosis and try to understand all the treatment options. It's completely normal to feel this way, and I'm here to help clarify the differences between endoscopic and open surgery for craniosynostosis.
+
+Endoscopic surgery is a minimally invasive procedure typically performed on infants under 3-6 months old. Through one or two small incisions, the surgeon releases the fused suture using a tiny camera and specialized instruments. This approach involves less blood loss, shorter hospital stays (usually 1-2 days), and smaller scars. However, it requires your baby to wear a custom-fitted helmet for 6-12 months afterward to guide skull growth.
+
+Open surgery (cranial vault reconstruction) is performed on older infants, usually between 6-12 months. It involves a larger incision across the scalp, allowing the surgeon to reshape the skull bones directly. This procedure doesn't require helmet therapy afterward but involves longer surgery time, more blood loss, and a hospital stay of 3-5 days.
+
+Neither approach is universally ""better"" - the choice depends on your baby's age, which suture is fused, the severity of the condition, and your family's circumstances. Endoscopic surgery is typically preferred for younger infants with single-suture fusion, while open surgery may be recommended for older babies or more complex cases.
+
+Both procedures have excellent outcomes when performed by experienced teams. The most important factor is finding a pediatric neurosurgeon and craniofacial team you trust. They'll help you understand which approach is most appropriate for your child's specific situation. Please bring these questions to your consultation - your surgical team will provide personalized guidance based on your baby's unique needs."
+36,FAQ_08_gpt4o,FAQ_08,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:35:05.031081,"I understand how concerned you must be about the timing of surgery for your baby's craniosynostosis. Please know that you're not alone in feeling this way, and I'm here to help clarify things for you.
+
+The optimal timing for surgery can depend on several factors, including the type of craniosynostosis your baby has and their overall health. Generally, surgeries are often performed between 3 to 12 months of age. This timing helps to take advantage of the rapid brain growth during the first year, which aids in reshaping the skull. 
+
+For some types of craniosynostosis, such as sagittal or metopic synostosis, early intervention (between 3 to 6 months) is often recommended to allow for better cosmetic and functional outcomes. However, each case is unique, and some babies may benefit from surgery at a different age.
+
+If your baby is older than 12 months, don't worry. Surgery can still be very effective, though the approach might differ slightly. The surgical team will consider your child's specific needs to determine the best timing.
+
+The risks of surgery vary but can include bleeding, infection, or swelling. However, these risks are generally low, and surgical teams take every precaution to minimize them. The benefits of surgery usually include improved head shape, alleviated pressure on the brain, and reduced risk of developmental delays.
+
+Please discuss your concerns and options with your surgical team. They will provide tailored advice based on your baby's specific condition and ensure that you feel supported throughout this process. Remember, you're doing the best for your child's health, and we're here to guide you every step of the way."
+37,FAQ_08_claude,FAQ_08,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:35:15.923029,"I understand how worried you must be about timing - it's one of the most common concerns parents have, and getting it right is important for your baby's outcome.
+
+**The ideal surgical window depends on the type of craniosynostosis:**
+
+**For most single-suture cases:**
+- **3-6 months** is typically optimal for endoscopic/minimally invasive surgery
+- **6-12 months** works well for traditional open surgery (cranial vault remodeling)
+- Surgery can still be performed successfully beyond 12 months, though the bones become thicker and procedures may be more complex
+
+**Why timing matters:**
+- **Too early (under 3 months):** Higher anesthesia risks, more blood loss relative to body size, and bones may be too thin to work with safely
+- **Sweet spot (3-12 months):** Bones are easier to reshape, brain growth helps maintain correction, and healing is excellent
+- **Later (over 12-18 months):** Still very doable, but may require more extensive reconstruction
+
+**Important considerations:**
+- **Sagittal synostosis** often benefits from earlier intervention (3-6 months)
+- **Complex or syndromic cases** may need different timing
+- **Raised intracranial pressure** requires urgent surgery regardless of age
+
+**Your next step:**
+Your craniofacial surgeon will assess your baby's specific type of craniosynostosis, severity, head shape, and overall health to recommend the best timing. Every baby is unique - there's no one-size-fits-all answer.
+
+**Please don't delay your consultation** if you haven't scheduled one yet. Your surgical team can give you personalized guidance and help you feel confident about the plan.
+
+What type of craniosynostosis does your baby have, and how old are they now?"
+38,FAQ_08_llama,FAQ_08,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:35:18.389389,"I completely understand your concerns as a parent, and I'm here to provide you with the best information possible. The ideal age for craniosynostosis surgery varies depending on the type and severity of the condition, as well as your child's overall health.
+
+Generally, most craniosynostosis surgeries are performed between 6 to 12 months of age. This age range is often considered optimal because it allows for the best possible correction of the skull shape and minimizes the risk of complications.
+
+However, the decision on when to perform surgery ultimately depends on several factors, including:
+
+1. Type of craniosynostosis: Some types, like sagittal synostosis, may be best treated earlier (around 6 months), while others, like metopic synostosis, might be treated a bit later (around 9-12 months).
+2. Severity of the condition: Babies with more severe cases might require earlier surgery to prevent complications and ensure proper brain growth.
+3. Your child's overall health: If your baby has any underlying medical conditions or concerns, the surgical team may recommend a different timing for surgery.
+
+If your baby is under 3 months old, it's essential to monitor their condition closely, as some types of craniosynostosis may require earlier intervention. On the other hand, if your baby is over 12 months old, it's not necessarily too late for surgery. However, the surgical team may need to consider the potential risks and benefits of surgery at an older age.
+
+It's essential to consult with your child's surgical team to determine the best course of action for their specific situation. They will assess your baby's condition, discuss the risks and benefits of surgery, and recommend the most suitable timing for the procedure."
+39,FAQ_08_gemini,FAQ_08,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:35:36.038921,"Thank you for asking this. It’s one of the most common and important questions we hear from parents, and it’s completely understandable to be worried about getting the timing just right for your little one.
+
+The ""best"" age for surgery really depends on the type of procedure your surgical team recommends. There are generally two main approaches, and the timing is different for each.
+
+For a minimally invasive, **endoscopic surgery**, we aim to operate when a baby is young, typically between 2 and 4 months old. At this age, the skull bones are still soft. The surgery releases the fused suture, and then a special custom-fitted helmet gently guides the skull’s growth into a more typical shape over the next several months. For this method, operating early is key to its success.
+
+For a traditional **open surgery**, also called cranial vault remodeling, we usually wait until the baby is a bit older, often between 6 and 12 months. By this age, your baby is bigger and stronger, and their skull bones are firm enough for the surgeon to physically reshape them. This procedure is more extensive but often doesn't require a helmet afterward.
+
+So, your baby is likely not ""too old"" or ""too young"" overall—they are simply in the ideal window for one type of procedure or the other. The goal is always to intervene before the head shape causes any issues and to give the brain plenty of room to grow.
+
+Please be reassured that your multidisciplinary craniofacial team has carefully considered your child’s specific diagnosis, age, and health to recommend the safest and most effective plan. They are the best resource for determining the perfect timing for your baby."
+40,FAQ_08_deepseek,FAQ_08,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:35:49.211676,"I understand your concern about timing—it's completely natural to worry about whether surgery is happening at the right moment for your baby. Please know that craniosynostosis surgery is carefully timed to balance your child’s safety, surgical outcomes, and developmental needs.
+
+For most single-suture craniosynostosis (like sagittal or metopic), the ideal window is typically **between 3 and 12 months of age**, often around **6–9 months**. At this age, babies are generally strong enough to handle surgery, their bones are still malleable and able to remodel well, and the brain is undergoing its most rapid growth—which helps guide the reshaping of the skull. Surgery during this period often leads to excellent cosmetic and functional results with less invasive techniques, such as endoscopic or spring-assisted procedures, when appropriate.
+
+If your baby is younger than 3 months, we may wait a bit to ensure they gain weight and strength, unless there are signs of increased intracranial pressure, which would require earlier intervention. If your child is older than 12–18 months, surgery is still possible and often necessary, but it may involve a more extensive open procedure, as the skull bones are thicker and less moldable.
+
+**The most important factor is not age alone, but your baby’s individual condition.** Your surgical team will consider the type of craniosynostosis, symptoms, head shape, and any signs of pressure on the brain. They will recommend the safest timing and technique for your child.
+
+Please discuss this directly with your pediatric neurosurgeon and craniofacial team—they know your baby’s specific case best and will create a plan that prioritizes your child’s health and future development. You are not alone in this journey."
+41,FAQ_09_gpt4o,FAQ_09,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:36:00.375231,"First, I want to acknowledge how overwhelming this decision can be. Choosing the right surgeon and hospital for your baby’s craniosynostosis treatment is crucial, and I’m here to guide you through this process.
+
+When considering different surgeons, look for those who specialize in pediatric neurosurgery and craniofacial surgery, specifically with experience in treating craniosynostosis. It’s perfectly okay to ask about their experience, the number of procedures they’ve done, and their success rates. Don’t hesitate to request references or talk to other parents whose children have undergone similar surgeries.
+
+Specialty centers or hospitals with a dedicated craniofacial team can provide significant advantages. These centers often have a multidisciplinary team approach, including neurosurgeons, plastic surgeons, pediatric anesthesiologists, and other specialists who work together to provide comprehensive care. This collaborative approach can be beneficial for planning and recovery.
+
+While considering hospitals, look for ones that are well-rated for pediatric care and have the necessary facilities to support complex surgeries. Proximity to your home is also an important factor, as follow-up visits will be necessary.
+
+Remember, it’s okay to seek second opinions. This is a common practice and can help you feel more confident about your decision. Trust your instincts; you know your child best.
+
+Finally, I encourage you to openly discuss your concerns and questions with your potential surgical team. They should be willing to listen and address any fears you have. Your comfort and trust in their care are paramount. You’re doing a great job advocating for your child, and I’m here to support you in any way I can."
+42,FAQ_09_claude,FAQ_09,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:36:11.482676,"I completely understand how overwhelming it is to make this decision for your baby. Choosing the right surgeon and hospital is one of the most important choices you'll make.
+
+**I strongly recommend seeking care at a specialized craniofacial center.** Here's why:
+
+**Specialty Center Advantages:**
+- **Experience matters tremendously**: Surgeons who perform craniosynostosis surgery regularly (ideally 20+ cases/year) have significantly better outcomes and lower complication rates
+- **Team approach**: Top centers have dedicated teams including pediatric neurosurgeons, craniofacial plastic surgeons, anesthesiologists experienced with infant surgery, and specialized nurses
+- **Better equipped**: They have pediatric ICUs, blood banks prepared for infant surgery, and protocols specifically for craniosynostosis cases
+- **Long-term follow-up**: These centers monitor development and can address any issues that arise as your child grows
+
+**Questions to Ask Potential Surgeons:**
+1. How many craniosynostosis surgeries do you perform yearly?
+2. What's your complication rate and reoperation rate?
+3. Which surgical approach do you recommend for my baby's specific type, and why?
+4. What does your follow-up care look like?
+5. Is this hospital a designated craniofacial center?
+
+**Red Flags:**
+- Surgeons who rarely perform these procedures
+- Hospitals without pediatric ICU capabilities
+- Pressure to make immediate decisions without time to consider options
+
+**Getting Second Opinions:**
+This is completely appropriate and encouraged! Most insurance covers consultations at multiple centers.
+
+The best outcomes happen when babies are treated by experienced teams. It's worth traveling to a specialty center if needed."
+43,FAQ_09_llama,FAQ_09,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:36:14.859575,"Choosing the right surgeon and hospital for your baby's craniosynostosis treatment can be overwhelming, but I'm here to guide you through this process. It's natural to feel anxious, and I want to assure you that we'll work together to find the best option for your child.
+
+When selecting a surgeon, it's essential to consider their experience and expertise in treating craniosynostosis. Look for a pediatric neurosurgeon or a craniofacial surgeon who has extensive experience in this specific area. You can ask about their:
+
+1. Number of procedures performed per year
+2. Success rates and outcomes
+3. Complication rates
+4. Approach to craniosynostosis treatment (e.g., traditional open surgery, endoscopic-assisted, or spring-mediated)
+
+Regarding hospitals, consider those with a dedicated pediatric neurosurgery or craniofacial program. These centers typically have:
+
+1. Experienced multidisciplinary teams (neurosurgeons, craniofacial surgeons, anesthesiologists, and nurses)
+2. Advanced equipment and facilities
+3. Established protocols for craniosynostosis treatment
+4. Support services for families, such as counseling and nutrition guidance
+
+Specialty centers can offer several benefits, including:
+
+1. Concentrated expertise in craniosynostosis treatment
+2. Access to state-of-the-art facilities and technology
+3. Multidisciplinary teams with extensive experience working together
+4. Research opportunities and clinical trials
+
+However, it's crucial to weigh these advantages against factors like location, insurance coverage, and personal preferences.
+
+To make an informed decision, I recommend:
+
+1. Consulting with your pediatrician or primary care physician for recommendations
+2. Researching online and reading reviews from other families
+3. Scheduling consultations with potential surgeons to discuss your child's case
+4. Asking questions about their approach, experience, and outcomes
+
+Remember, the most important factor is finding a surgeon and hospital that you trust and feel comfortable with. Don't hesitate to ask questions or seek a second opinion. Your child's health and well-being are our top priority."
+44,FAQ_09_gemini,FAQ_09,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:36:34.628999,"Of course. This is an incredibly important and thoughtful question. It’s completely normal to feel overwhelmed when faced with this decision, and wanting to find the absolute best care for your child shows what a wonderful advocate you are.
+
+When treating craniosynostosis, seeking care at a specialized, high-volume pediatric craniofacial center is strongly recommended and aligns with the best practice guidelines. Here’s why:
+
+**1. The Power of a Team:** These centers use a multidisciplinary team approach. This means your baby won’t just have one surgeon; they will be cared for by a coordinated group of experts, including a pediatric neurosurgeon and a craniofacial plastic surgeon who work together in the operating room. The team also includes specialists like pediatric anesthesiologists, geneticists, and developmental pediatricians. This comprehensive approach ensures all aspects of your child's health are considered, leading to safer surgery and better long-term outcomes.
+
+**2. Experience Matters:** A team that regularly performs craniosynostosis surgery has extensive experience with every aspect of care, from the initial diagnosis to post-operative recovery. This high volume is directly linked to shorter surgery times, lower complication rates, and excellent cosmetic results.
+
+**3. A Full Range of Options:** A specialty center will be proficient in all modern surgical techniques, including both minimally invasive endoscopic surgery and traditional open cranial vault remodeling. This is crucial because it means they can recommend the best treatment tailored specifically to your baby’s age and type of synostosis, not just the one procedure they know how to do.
+
+When you meet with a potential team, feel empowered to ask:
+*   ""How many craniosynostosis surgeries do you perform each year?""
+*   ""Who is on your craniofacial team?""
+*   ""Do you offer both endoscopic and open options?""
+
+Trust your instincts. The right team will not only have excellent credentials but will also listen to your concerns and make you feel confident and supported."
+45,FAQ_09_deepseek,FAQ_09,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:36:46.373168,"I understand how overwhelming it can be to make this decision for your child. It's completely normal to feel anxious about choosing the right team. You are asking exactly the right questions.
+
+Choosing a surgeon and hospital is one of the most important steps. Based on current guidelines, I strongly recommend seeking care at a high-volume pediatric craniofacial center. These specialty centers have a dedicated, multidisciplinary team—including pediatric neurosurgeons, craniofacial plastic surgeons, anesthesiologists, and specialized nurses—all experienced in treating infants. This team approach is crucial for the safest surgery and best long-term outcomes.
+
+When evaluating surgeons, don't hesitate to ask direct questions during consultations:
+*   ""How many of these specific procedures do you perform each year?""
+*   ""What is your complication rate?""
+*   ""Can you walk me through the specific surgical technique you recommend for my child's type of craniosynostosis?""
+
+A surgeon at a specialty center will be accustomed to these questions and should provide clear, reassuring answers. They will also discuss the full spectrum of care, from pre-operative imaging to post-operative follow-up and potential need for future monitoring.
+
+While traveling to a center of excellence can be a burden, for a complex procedure like this, the expertise of a high-volume team significantly reduces risks and optimizes cosmetic and functional results. Your child's pediatrician can be a great resource for referrals to accredited craniofacial centers. Trust your instincts—you should feel confident, heard, and comfortable with the team you choose."
+46,FAQ_10_gpt4o,FAQ_10,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:36:51.433335,"I completely understand your concerns about your baby's treatment and the steps that follow. It's natural to want to know what to expect after choosing endoscopic surgery for craniosynostosis. 
+
+Endoscopic surgery is a minimally invasive option that many families choose because it typically involves shorter recovery times and smaller incisions. However, because the surgery is performed early in life, usually before 6 months of age, your baby will need to wear a cranial molding helmet post-surgery to help shape the skull as it grows.
+
+The helmet therapy is crucial because it gently guides the skull into a more typical shape as your baby's brain grows. Generally, babies need to wear the helmet for about 3 to 12 months. The exact duration can vary depending on your baby's specific condition and response to the helmet therapy. Typically, the helmet needs to be worn for 23 hours a day, with one hour off for cleaning and skin checks.
+
+It's important to have regular follow-ups with your cranial helmet specialist and surgical team. They will monitor your baby's progress and make any necessary adjustments to the helmet. Rest assured, these specialists are very experienced in making this process as comfortable as possible for your little one.
+
+I know this can feel overwhelming, but please remember that you’re not alone in this journey. Your surgical team will provide continuous guidance and support. If you have any more questions or concerns, don't hesitate to reach out to them for more personalized advice."
+47,FAQ_10_claude,FAQ_10,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:37:02.621768,"I understand you're trying to plan ahead and want to know what to expect with helmet therapy. This is such an important question!
+
+**Typical Helmet Duration:**
+Most babies who have endoscopic surgery wear their custom cranial orthotic helmet for **4-6 months** on average. However, the exact duration varies based on several factors:
+
+- **Your baby's age at surgery** (younger babies often need shorter duration)
+- **The type of craniosynostosis** (sagittal vs. metopic vs. coronal)
+- **How well the skull is reshaping** (monitored through regular follow-ups)
+- **Compliance with wearing schedule** (typically 23 hours per day)
+
+**What affects the timeline:**
+Your baby's skull is incredibly moldable in those early months, which is why endoscopic surgery works best before 3-4 months of age. The helmet guides this natural growth into the correct shape. Some babies graduate from helmet therapy in 4 months, while others may need closer to 8-9 months if started later or if reshaping is slower.
+
+**Important to know:**
+Your craniofacial team will monitor progress every 2-4 weeks with measurements and sometimes 3D scans. They'll determine when your baby's head shape has improved enough to stop helmet wear—this is individualized, not one-size-fits-all.
+
+**Please discuss with your surgeon** the specific expected timeline for your baby's particular situation, as they can give you the most accurate estimate based on the type of synostosis and your baby's age.
+
+Does this help clarify what to expect?"
+48,FAQ_10_llama,FAQ_10,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:37:05.035776,"I completely understand your concern about what to expect after surgery. Endoscopic surgery, also known as endoscopic-assisted craniectomy, is a minimally invasive procedure that can be an effective option for some babies with craniosynostosis.
+
+If your baby undergoes endoscopic surgery, they will likely need to wear a custom-made helmet, also known as a cranial molding orthosis, as part of their aftercare. This helmet helps shape and guide the growth of their head, allowing it to take on a more normal shape.
+
+The duration of helmet wear varies from baby to baby, but typically, it's around 6 to 12 months. During this time, your baby will need to wear the helmet for 22-23 hours a day, removing it only for bath time and occasional breaks.
+
+It's essential to note that the helmet is not a treatment for craniosynostosis itself, but rather a way to support the correction of the head shape after surgery. Regular follow-up appointments with our team will be necessary to monitor your baby's progress and adjust the helmet as needed.
+
+Keep in mind that every child's situation is unique, and the specifics of helmet wear will depend on your baby's individual needs and the recommendations of our surgical team. We'll work closely with you to ensure a smooth recovery and optimal outcomes for your baby. If you have any further questions or concerns, please don't hesitate to ask."
+49,FAQ_10_gemini,FAQ_10,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:37:22.695151,"Thank you for asking this excellent question. It’s completely natural to want to understand every step of the process, especially what life will look like for your baby after surgery.
+
+For babies who have endoscopic surgery for craniosynostosis, the helmeting therapy that follows is a crucial part of the treatment. Typically, your baby will need to wear the helmet for about 6 to 12 months, often until they are around their first birthday.
+
+It's helpful to think of the surgery and the helmet as a two-part team. The minimally invasive endoscopic surgery is designed to release the fused suture, giving the brain the space it needs to grow properly. The custom-fitted helmet then acts as a gentle guide. It doesn't squeeze or pressure the head; instead, it directs the brain's powerful natural growth into the right areas to correct and round out the head shape over time.
+
+Your baby will likely wear the helmet for about 23 hours a day, only taking it off for bathing. While this sounds like a lot, you'll be amazed at how quickly they adapt. These helmets are very lightweight and custom-molded for a comfortable fit. You will have regular appointments with a specialist called an orthotist who will adjust the helmet as your baby grows.
+
+The exact duration depends on your baby's specific growth and how their head shape responds. We stop the therapy once we've achieved the desired correction. This combined approach of a small surgery followed by helmeting is highly effective and leads to wonderful, lasting results. Your surgical team will give you a more precise timeline based on your child's individual needs."
+50,FAQ_10_deepseek,FAQ_10,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:37:35.300173,"I understand how overwhelming this decision can feel, and it's completely normal to have questions about the details of your baby's treatment plan. You're being a wonderful advocate by learning about the process.
+
+For endoscopic surgery for craniosynostosis, helmet therapy is a crucial part of the treatment. The helmet is not just protective gear; it's an active molding device that guides your baby's head into a more rounded, symmetrical shape as the brain grows.
+
+Typically, babies wear the helmet **23 hours a day** for a period of **approximately 6 to 12 months**. The exact duration depends on several factors, including:
+*   **Your baby's age at surgery:** Surgery is ideally performed between 2-4 months of age. Babies operated on earlier may require a slightly longer helmet course.
+*   **The type of suture fused:** Different sutures require slightly different molding strategies.
+*   **Your baby's individual growth rate:** The helmet is adjusted periodically to accommodate and guide this growth.
+
+Helmet therapy usually starts **1-2 weeks after surgery**, once the initial swelling has subsided. Your pediatric neurosurgeon and orthotist (the specialist who makes and fits the helmet) will form a team with you. They will schedule regular adjustments—often every few weeks initially—to ensure a proper, comfortable fit and optimal molding.
+
+While the commitment is significant, families often find their babies adapt to the helmet very quickly. The endoscopic approach combined with helmet therapy is a highly effective, minimally invasive strategy with excellent long-term outcomes. Your surgical team will give you a personalized timeline and all the support you need throughout this process."
+51,FAQ_11_gpt4o,FAQ_11,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:37:39.066009,"I completely understand your concerns about your baby's surgery, and it's natural to worry about the risks involved, especially when it comes to something as precious as your child's brain. Let me reassure you that the safety of your baby is the top priority for every member of the surgical team.
+
+Craniosynostosis surgery is designed to correct the premature fusion of skull bones and allow for normal brain growth. It is performed by highly skilled neurosurgeons and plastic surgeons who specialize in this area. The surgical techniques used today are very advanced, and these procedures have been safely performed for many years.
+
+While operating close to the brain may sound daunting, the surgeons take numerous precautions to protect the brain and surrounding tissues. They use specialized equipment and techniques to minimize any risks. The majority of these surgeries are highly successful, allowing for normal brain development and a significant improvement in head shape.
+
+As with any surgery, there are risks involved, such as bleeding, infection, or the need for additional procedures. However, these risks are relatively low, and the benefits of addressing craniosynostosis early often far outweigh the potential complications.
+
+Remember, your surgical team will provide detailed information specific to your baby's case, and they are there to address any concerns you might have. Don't hesitate to ask them questions and discuss any fears you have. Your child's safety and well-being are their utmost priorities."
+52,FAQ_11_claude,FAQ_11,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:37:50.368955,"I completely understand your fear - it's natural to worry about any surgery near your baby's brain. Let me reassure you with some important facts.
+
+**Brain Safety During Surgery:**
+
+Craniosynostosis surgery is performed *on the skull bones*, not on the brain itself. Your baby's brain is protected by several layers (the dura mater being the most important), and experienced pediatric neurosurgeons work extremely carefully to keep these protective layers intact. We never directly touch or cut into brain tissue during these procedures.
+
+**Safety Statistics:**
+
+Modern craniosynostosis surgery is very safe when performed by specialized teams:
+- Major complications are rare (less than 1-2% in experienced centers)
+- Neurological injury is extremely uncommon
+- Thousands of these surgeries are performed successfully each year
+
+**What Makes It Safe:**
+
+- **Specialized training**: Pediatric neurosurgeons spend years learning these specific techniques
+- **Advanced monitoring**: Your baby's vital signs and brain function are monitored throughout
+- **Team approach**: Anesthesiologists specially trained in pediatric care manage your baby's safety
+- **Modern techniques**: Minimally invasive options (like endoscopic surgery) are available for younger babies
+
+**The Real Risk of NOT Operating:**
+
+Untreated craniosynostosis can actually harm brain development by restricting growth space, potentially causing increased pressure, developmental delays, and vision problems.
+
+**Your Next Steps:**
+
+Ask your surgical team about their experience, complication rates, and specific safety protocols. Don't hesitate to seek a second opinion at a craniofacial center if you need additional reassurance.
+
+Your baby is in good hands. This surgery has helped countless children thrive."
+53,FAQ_11_llama,FAQ_11,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:37:52.754640,"I completely understand your concerns as a parent - the thought of your baby undergoing surgery, especially near the brain, can be overwhelming. Please know that I'm here to guide you through this process and provide reassurance.
+
+Craniosynostosis surgery is a delicate procedure, and as a pediatric neurosurgeon, my primary concern is the safety and well-being of your baby's brain. The surgery itself is designed to correct the abnormal bone growth and create space for the brain to grow properly.
+
+To alleviate your concerns, it's essential to know that the brain is well-protected during surgery. We use advanced imaging techniques and intraoperative monitoring to ensure the brain is safe throughout the procedure. Additionally, our surgical team takes great care to minimize any potential risks.
+
+While any surgical procedure carries some risks, the benefits of correcting craniosynostosis often outweigh these risks. Untreated craniosynostosis can lead to increased intracranial pressure, vision problems, and other complications that may impact your baby's long-term development.
+
+To put your mind at ease, I'd like to share some facts: the risk of brain injury during craniosynostosis surgery is extremely low (less than 1%). Our team follows strict safety protocols, and we work closely with our pediatric anesthesiologists to ensure your baby's comfort and safety throughout the procedure.
+
+It's crucial to discuss your concerns with your baby's surgical team, as we can provide personalized guidance and answer any questions you may have. We're committed to supporting you and your baby throughout this journey, and I'm confident that with the right care, your baby will thrive."
+54,FAQ_11_gemini,FAQ_11,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:38:11.690717,"That is an excellent and completely natural question to ask. It’s probably the most important question on any parent’s mind, and I want to reassure you that your concern is our highest priority.
+
+The simple answer is that the surgery is designed to protect your baby’s brain, not harm it. We operate on the skull bone, not the brain itself. Think of the skull as a protective helmet for the brain. In craniosynostosis, that helmet is becoming too tight or misshapen, and our job is to carefully reshape it to give the brain the room it needs to grow and develop normally.
+
+There is a tough, protective covering over the brain, like a thick, durable membrane, called the dura. This layer acts as a natural shield between the bone we are working on and the delicate brain underneath. Our pediatric neurosurgery and craniofacial surgery teams are highly specialized. We use precise instruments and techniques developed specifically to work on the bone while leaving this protective barrier and the brain completely undisturbed.
+
+Of course, any surgery has risks, and it’s important to be honest about them. The primary risks are related to bleeding (as the scalp has many blood vessels) and infection. The risk of injury to the brain itself is extremely low when performed by an experienced, specialized team. We have an entire team, including pediatric anesthesiologists, dedicated to monitoring your baby second-by-second to ensure their complete safety.
+
+The key takeaway is that this surgery is performed to *prevent* potential future problems for the brain by giving it the space it needs. Please be sure to discuss all of these fears with your surgical team; we are here to walk you through every detail and answer every question you have."
+55,FAQ_11_deepseek,FAQ_11,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:38:24.948465,"I can hear the deep concern in your question, and it is completely understandable. The thought of surgery near your baby's brain is frightening for any parent. Please know that your surgical team shares this priority: protecting your baby's brain is the single most important goal of the entire procedure.
+
+To answer your question directly: the surgery is designed to *protect* the brain, not hurt it. In craniosynostosis, the fused skull bone can't expand, which can create harmful pressure on the growing brain. The surgery releases this pressure, creating the space the brain needs to develop normally. The brain itself is covered by a very tough, protective membrane called the dura, which the surgeon does not penetrate. The work is done on the bone *above* this protective layer.
+
+Regarding safety, modern craniosynostosis surgery is highly specialized and performed with immense precision. Your team will use advanced technology, like surgical navigation and sometimes even endoscopic assistance, to visualize the anatomy in great detail and work with extreme care. While any surgery involving general anesthesia carries inherent risks, the rates of serious neurological complications (like bleeding, infection, or injury to the brain) are very low when performed by an experienced pediatric craniofacial team. The far greater risk to brain development comes from *not* treating significant craniosynostosis, which can lead to increased intracranial pressure.
+
+Your surgical team will discuss all the specific risks and safety protocols in detail during your consultation. This is a major surgery, but it is also a well-established, life-changing procedure with an excellent safety profile when performed for the right reasons by experts. Your baby's brain safety is the foundation of everything they do."
+56,FAQ_12_gpt4o,FAQ_12,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:38:29.783045,"I completely understand how worried you must be about your little one facing surgery. Craniosynostosis surgery, while generally safe and successful, is a major procedure, and it's natural to have concerns. Let me walk you through some potential risks and complications, so you feel more informed.
+
+The primary goal of craniosynostosis surgery is to correct the shape of the skull and allow for normal brain growth. Like any surgery, there are risks involved. These can include bleeding, infection, and reactions to anesthesia. Your surgical team will take every precaution to minimize these risks, such as using advanced monitoring and sterile techniques.
+
+Another potential risk is the need for blood transfusions due to blood loss during the procedure. Surgeons are well-prepared for this situation, and many centers use strategies to minimize blood loss. There is also a small risk of cerebrospinal fluid leakage or damage to the surrounding tissues.
+
+Post-surgery, some children may experience swelling or temporary changes in appearance. These are generally short-term and resolve as the child heals. In rare cases, there might be issues with bone healing or the need for additional surgery in the future.
+
+It's important to keep in mind that surgical teams specializing in craniosynostosis are highly experienced and skilled. They will discuss all these risks with you in detail and ensure the best possible care for your child. Always feel free to ask your team any questions you have.
+
+Remember, this surgery can significantly improve your child's quality of life, and our focus is always on ensuring the safest and most effective outcome. You're not alone in this journey, and we're here to support you every step of the way."
+57,FAQ_12_claude,FAQ_12,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:38:41.468982,"I understand how frightening it can be to consider surgery for your baby. It's completely natural to want to know every detail about what could happen. Let me walk you through this honestly but reassuringly.
+
+**Common, Manageable Risks:**
+- **Blood loss requiring transfusion** (most common) - surgical teams are well-prepared with blood products ready
+- **Swelling and bruising** around the eyes and scalp - typically resolves within 1-2 weeks
+- **Fever** in the first few days post-surgery - usually not serious but monitored closely
+- **Need for pain management** - your baby will receive appropriate medication
+
+**Less Common but Serious Risks:**
+- **Infection** (1-2% of cases) - treated with antibiotics, rarely requiring additional surgery
+- **Cerebrospinal fluid leak** - uncommon and usually manageable
+- **Incomplete correction** requiring revision surgery (5-10% depending on technique)
+
+**Rare but Important to Know:**
+- Stroke or seizure (very rare, <1%)
+- Significant bleeding complications
+- Anesthesia-related issues
+
+**The Reassuring Context:**
+Modern craniosynostosis surgery has become remarkably safe. Specialized craniofacial teams perform these procedures routinely with excellent outcomes. The risks of **not** treating certain types of craniosynostosis—including increased intracranial pressure, developmental delays, and vision problems—often outweigh surgical risks.
+
+Your surgical team will discuss your baby's specific situation, as risks vary based on which sutures are involved, your baby's age, and the surgical approach planned.
+
+**What helps most:** Choose an experienced craniofacial center that performs many of these surgeries annually. Experience matters tremendously in outcomes.
+
+What specific concerns weigh most heavily on your mind?"
+58,FAQ_12_llama,FAQ_12,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:38:46.054367,"I completely understand your concern about the risks and complications associated with craniosynostosis surgery. As a pediatric neurosurgeon, I want to assure you that while surgery is a significant decision, the benefits often outweigh the risks for children with craniosynostosis.
+
+Some potential complications of craniosynostosis surgery include:
+
+1. **Bleeding and blood transfusions**: As with any surgery, there's a risk of bleeding during or after the procedure. In some cases, a blood transfusion may be necessary.
+2. **Infection**: Although rare, infection is a possible complication. We take strict precautions to minimize this risk, and your child will receive antibiotics to prevent infection.
+3. **Respiratory issues**: Children with craniosynostosis may experience breathing difficulties due to the abnormal skull shape. Surgery can help alleviate these issues, but in some cases, respiratory problems may persist or worsen temporarily.
+4. **CSF leak**: Cerebrospinal fluid (CSF) leaks are rare but can occur during or after surgery. In most cases, these leaks resolve on their own or with minor treatment.
+5. **Seizures**: Some children with craniosynostosis may experience seizures due to increased intracranial pressure. Surgery can help reduce this pressure, but in rare cases, seizures may persist or develop after the procedure.
+6. **Hydrocephalus**: This is a condition where fluid accumulates in the brain. While rare, hydrocephalus can occur in some children with craniosynostosis. We monitor for this condition closely, and treatment is available if needed.
+7. **Scarring and skin problems**: As with any surgery, scarring is a possibility. However, our surgical techniques aim to minimize scarring and promote optimal healing.
+8. **Vision problems**: In some cases, craniosynostosis can lead to vision problems due to increased pressure on the eyes. Surgery can help alleviate these issues, but in rare cases, vision problems may persist or worsen temporarily.
+
+It's essential to discuss your child's specific risks and benefits with their surgical team. We will carefully evaluate your child's condition and develop a personalized treatment plan to minimize complications. While risks exist, the vast majority of children with craniosynostosis undergo successful surgery and experience significant improvement in their condition.
+
+Please don't hesitate to ask me any further questions or concerns you may have. I'm here to support you and your child throughout this journey."
+59,FAQ_12_gemini,FAQ_12,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:39:03.595356,"That is an excellent and very important question. It’s completely understandable to be concerned about the risks of any surgery for your child, and it’s our job to help you understand every aspect of the procedure.
+
+First, please know that craniosynostosis surgery is a very common and safe procedure performed by specialized teams like ours. The vast majority of children do wonderfully and have excellent outcomes. However, like any surgery, it is not without risks.
+
+The most common and expected side effects are related to recovery. Your baby will have swelling, especially around the eyes, which can look dramatic but is normal and temporary. There will be some blood loss during the surgery, and a blood transfusion is sometimes needed. We will have blood ready just in case. Post-operative pain is also expected, but we have very effective ways to keep your child comfortable.
+
+Less common, but more serious, complications include infection, excessive bleeding, or a reaction to anesthesia. To minimize these, we operate in a sterile environment, give antibiotics, and work with a pediatric anesthesiologist who specializes in caring for infants. There is also a very small risk of a leak of the fluid that surrounds the brain (cerebrospinal fluid), which can typically be repaired during the surgery. The risk of injury to the brain itself is extremely low, as we are carefully working on the bone of the skull, not on the brain.
+
+Your surgical team’s highest priority is your child’s safety. We take every possible precaution to minimize these risks. Please feel free to write down any other questions you have, and we can discuss them in detail at your next appointment. We are here to support you and your family through this entire process."
+60,FAQ_12_deepseek,FAQ_12,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:39:16.049604,"First, I want to acknowledge how overwhelming this must feel. It's completely normal to be worried about surgery for your baby. Asking about risks shows you're being a thoughtful and careful parent. Please know that craniosynostosis surgery is a well-established procedure performed by highly specialized teams, and the goal is to give your child the best possible outcome for brain growth and head shape.
+
+The most common risks include bleeding, infection, and reactions to anesthesia. Your surgical team will take every precaution to minimize these. More specific to cranial surgery, there can be swelling, which is managed carefully after the operation. There is a small risk of injury to the delicate covering of the brain (the dura) or a leak of the fluid that surrounds the brain (CSF). In very rare cases, there can be injury to the brain itself or the eyes.
+
+It's also important to know that sometimes, a second surgery may be needed years later if the bone doesn't heal as expected or if there is a recurrence of the fused suture. There will be scars, though surgeons place them carefully, often along the hairline or within the scalp.
+
+The key takeaway is that your surgical team will discuss every detail of these risks with you, tailored to your baby's specific type of craniosynostosis and overall health. The benefits of relieving pressure on the growing brain and allowing for normal skull development far outweigh these risks for the vast majority of children. Your team is there to support you through every step."
+61,FAQ_13_gpt4o,FAQ_13,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:39:21.701955,"I can understand why you might be concerned about the possibility of a blood transfusion for your baby. When it comes to craniosynostosis surgery, there is a possibility that your baby may need a blood transfusion, but it really depends on the type of surgery being performed and your baby's specific condition.
+
+For some surgeries, especially those that are more extensive like open cranial vault remodeling, transfusions are more common due to the potential for increased blood loss. However, with less invasive procedures, such as endoscopic strip craniectomy, the need for a transfusion is less likely. Your surgical team will assess your baby's individual case and discuss the likelihood of needing a transfusion with you.
+
+As for donating blood ahead of time, it's a thoughtful gesture and something you can discuss with your surgical team. They will be able to provide guidance tailored to your baby's needs and the hospital's policies. Some parents choose to donate their own blood, a process called directed donation, but it’s important to note that there are specific criteria and timelines for this option.
+
+Most importantly, rest assured that your baby will be in the hands of a skilled team that prioritizes safety and will have measures in place to minimize blood loss and manage it effectively if it occurs. Please keep an open line of communication with your surgical team; they are there to support you and your baby every step of the way."
+62,FAQ_13_claude,FAQ_13,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:39:33.418907,"I completely understand your concern about blood transfusions - this is one of the most common questions parents ask me.
+
+**The Reality About Transfusions:**
+
+Blood transfusions are relatively common during craniosynostosis surgery, particularly for open cranial vault remodeling procedures. The likelihood depends on:
+- The type of surgery (open vs. endoscopic)
+- Which sutures are involved
+- Your baby's age and weight
+- The surgical technique used
+
+**Open Surgery:** Approximately 20-40% of babies need transfusions during traditional open procedures, though many centers have reduced these rates with advanced surgical techniques and medications that minimize bleeding.
+
+**Endoscopic Surgery:** When performed early (typically before 3-4 months), transfusion rates are much lower, around 5-15%.
+
+**About Directed Donation:**
+
+While your instinct to donate is wonderful, there are important considerations:
+
+- **Testing time:** Donated blood requires 2-3 days of processing and testing
+- **Blood type compatibility:** Your blood type must match your baby's
+- **Medical eligibility:** Not all parents can donate due to health or medication factors
+- **Not always necessary:** Many babies don't end up needing transfusions
+
+**What I Recommend:**
+
+1. **Ask your surgical team** about their specific transfusion rates and protocols
+2. **Discuss directed donation** at your pre-operative appointment (usually 2-3 weeks before surgery)
+3. **Trust the blood bank:** Screened blood from blood banks is extremely safe
+
+Your surgery team will have medications and techniques ready to minimize bleeding. Focus on preparing emotionally and logistically for surgery - that's where your energy is best spent right now."
+63,FAQ_13_llama,FAQ_13,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:39:36.741094,"I completely understand your concern about a potential blood transfusion for your baby's craniosynostosis surgery. It's natural to feel worried and want to be prepared.
+
+The need for a blood transfusion during craniosynostosis surgery depends on several factors, including the type of surgery, the baby's age and weight, and the surgeon's experience. In general, the risk of significant blood loss is relatively low in these surgeries. However, as a precaution, our surgical team always prepares for the possibility of a blood transfusion.
+
+Regarding donating blood ahead of time, it's not usually necessary or recommended. In most cases, we have access to a safe and reliable blood supply through our hospital's blood bank. However, we do encourage you to discuss this with your surgical team, as they can provide personalized guidance based on your baby's specific situation.
+
+It's also important to note that directed blood donations, where a family member donates blood specifically for the baby, are not typically recommended for pediatric patients. This is because the baby's blood type and the donor's blood type may not match, and there's also a risk of transmitting certain infections.
+
+What you can do is focus on ensuring your baby is healthy and well-prepared for surgery. Your surgical team will discuss all the necessary precautions and preparations with you, including any specific instructions for the day of the surgery.
+
+Please don't hesitate to reach out to us if you have any further questions or concerns. We're here to support you and your baby throughout this journey."
+64,FAQ_13_gemini,FAQ_13,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:39:54.721185,"That is a very common and understandable question. It’s completely natural to worry about every aspect of your baby’s surgery, and blood transfusion is a topic many parents ask about. Let me walk you through it.
+
+The possibility of a blood transfusion depends heavily on the type of surgery your child has. For younger infants undergoing minimally invasive, endoscopic surgery, the blood loss is typically very small, and the need for a transfusion is low. For the more traditional, open cranial vault remodeling surgery, which is a more extensive procedure, the likelihood of needing a transfusion is higher. This is because the scalp has many blood vessels, and a baby’s body is so small that even a little blood loss is significant for them.
+
+Please know that our primary goal is your child’s safety. We monitor your baby incredibly closely during the procedure. A transfusion is a proactive safety measure we use to keep your baby stable and strong if their blood count drops. It helps ensure their brain and body get all the oxygen they need.
+
+Regarding your second question about donating blood yourself—this is called a ""directed donation."" While this comes from a place of deep love, it is generally not recommended today. Our hospital's blood bank supply is incredibly safe and undergoes more rigorous and extensive testing than a single directed donation can. This process ensures the absolute best match and the lowest possible risk for your baby.
+
+The most important step is to have this conversation with your own surgical and anesthesia team. They can explain the specific likelihood for your baby based on their health, age, and the planned procedure. We are here to make this process as safe as possible for your little one."
+65,FAQ_13_deepseek,FAQ_13,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:40:06.302714,"I can hear the worry in your question, and it's completely understandable. The thought of your baby needing a blood transfusion is a very common and significant concern for parents in your situation. Let me explain what you can expect.
+
+During surgery for craniosynostosis, there is a potential for blood loss, and a blood transfusion is sometimes necessary to keep your baby safe and stable. The surgical team takes every precaution to minimize this, using meticulous techniques and advanced tools to reduce bleeding. However, because babies have a very small total blood volume, even a relatively small amount of blood loss can require replacement.
+
+Regarding your question about donating blood ahead of time: this is called directed donor donation. Many pediatric centers have specific policies on this. Some hospitals encourage it, as it can provide great comfort to parents. Others prefer to use carefully screened blood from the hospital's blood bank, as it undergoes rigorous, standardized testing. The most important step is to discuss this directly with your baby's surgical team and the hospital's blood bank. They can explain their specific protocol, whether directed donation is an option for you, and what the process would involve.
+
+Please know that your child's safety is the absolute top priority. The anesthesia and surgical teams are experts in managing this and will only transfuse blood if it is medically essential. You are asking all the right questions, and having this conversation with your team will help you feel more prepared."
+66,FAQ_14_gpt4o,FAQ_14,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:40:11.848567,"I completely understand your concerns about the surgery. It's natural to feel worried when your child is facing a medical procedure. Craniosynostosis surgery is a significant step, but it's important to know that it's commonly performed by experienced surgical teams who are dedicated to your child's safety and well-being.
+
+The surgery involves reshaping the bones of your baby's skull to allow for normal brain growth and development. While complications are rare, it's important to be aware of them. The most serious risks include infection, bleeding, and damage to surrounding tissues. In very rare cases, there can be issues related to anesthesia or unexpected reactions. The surgical team takes extensive precautions to minimize these risks, including thorough pre-surgical assessments and careful monitoring during and after the procedure.
+
+It's reassuring to know that advances in surgical techniques and technology have significantly improved the safety and outcomes of these surgeries. The vast majority of babies recover well and go on to have normal growth and development. Your surgical team will be with you every step of the way, discussing the procedure, addressing any concerns, and ensuring your child receives the best care.
+
+I encourage you to talk openly with your child's surgeon about your fears. They can provide detailed information specific to your child's case and offer the reassurance you need. Remember, you're not alone in this journey—there's a team of professionals supporting you and your baby."
+67,FAQ_14_claude,FAQ_14,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:40:23.036356,"I understand this is one of the most frightening questions you're facing as a parent. It's completely natural to worry about what could happen during your baby's surgery.
+
+**Let me be honest with you:**
+
+Modern craniosynostosis surgery is very safe, with serious complications being rare. However, like any surgery, risks do exist, and you deserve to know them.
+
+**Potential complications include:**
+
+- **Blood loss** requiring transfusion (most common, but planned for)
+- **Infection** at the surgical site (typically treatable with antibiotics)
+- **Cerebrospinal fluid leak** (usually resolves or can be repaired)
+- **Anesthesia reactions** (rare with pediatric anesthesiologists)
+
+**Very rare but serious risks:**
+- Stroke or seizures
+- Significant bleeding requiring return to surgery
+- Vision problems (extremely rare)
+- In the rarest cases, life-threatening complications
+
+**Here's what helps minimize risks:**
+
+Your surgical team has extensive experience with these procedures. They'll have blood ready, monitor your baby continuously, and use advanced techniques to maximize safety. Pediatric neurosurgeons perform these surgeries regularly—it's not experimental.
+
+**What you should do:**
+
+- Discuss specific risks with your surgeon—they know your baby's unique situation
+- Ask about their complication rates and experience
+- Ensure surgery is at a children's hospital with pediatric ICU capabilities
+- Understand the risks of *not* operating (increased intracranial pressure, developmental delays)
+
+The vast majority of babies come through beautifully. Your surgical team will do everything possible to keep your child safe."
+68,FAQ_14_llama,FAQ_14,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:40:25.570268,"I completely understand your concerns, and it's natural to worry about potential complications during surgery. As a pediatric neurosurgeon, I want to reassure you that we take every precaution to minimize risks and ensure your child's safety.
+
+While serious complications are rare, they can occur. The worst-case scenarios may include bleeding, infection, or injury to surrounding brain tissue or nerves. In very rare cases, complications can lead to long-term effects such as vision or hearing loss, seizures, or developmental delays.
+
+It's essential to note that craniosynostosis surgery is a highly specialized procedure, and surgeons like myself have extensive training and experience in performing these operations. We work closely with a team of experts, including anesthesiologists and nurses, to ensure your child receives the best possible care.
+
+To put your mind at ease, we take several precautions to minimize risks:
+
+1. Thorough pre-surgical evaluation and planning to identify any potential risks.
+2. Close monitoring during surgery to quickly address any complications.
+3. Advanced surgical techniques and instruments to minimize tissue damage.
+4. Post-operative care and monitoring to catch any potential issues early.
+
+It's crucial to discuss your concerns and questions with your child's surgical team. We will work closely with you to ensure you understand the risks and benefits of surgery and develop a personalized plan for your child's care.
+
+Remember, while complications can occur, the vast majority of children with craniosynostosis undergo successful surgery and go on to lead healthy, happy lives. We're committed to providing your child with the best possible care and outcome."
+69,FAQ_14_gemini,FAQ_14,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:40:42.655598,"Thank you for asking this. It is one of the most important questions a parent can ask, and it shows how much you love and want to protect your child. It's completely normal to think about the worst-case scenarios, and I want to be honest with you while also reassuring you about the extensive safety measures we take.
+
+The most significant risk we prepare for in craniosynostosis surgery is bleeding. A baby's scalp and skull bones have a very rich blood supply, and they have a small total blood volume. Our entire team is built around managing this. We work with a pediatric anesthesiologist who specializes in caring for infants during surgery. We always have blood matched and immediately available in the operating room, though we often don't need to use it. We also use specific surgical techniques and medications to minimize blood loss from the very start.
+
+Other risks are very rare but can include infection, a reaction to anesthesia, or injury to the protective covering of the brain, called the dura. We prevent infection with sterile procedures and antibiotics. Our anesthesia team is highly experienced with babies, and we are meticulously careful to protect the brain and its coverings.
+
+You asked what the worst that could happen is. While modern surgery has made this exceptionally rare, the most severe complications of any major operation include the risk of brain injury or a life-threatening event. I need to be transparent about this possibility, but I also must emphasize that it is exceedingly uncommon. Our teams perform these surgeries regularly, and our protocols are designed to prevent these outcomes.
+
+Please know that we only recommend surgery when we are confident that the benefits for your child’s brain development and well-being far outweigh the very small risks. We should discuss this again at your pre-operative appointment, so we can address every single one of your concerns."
+70,FAQ_14_deepseek,FAQ_14,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:40:56.354201,"I hear the fear in your question, and it's completely understandable. As a parent, it's natural to focus on the ""what ifs."" Please know that your surgical team shares this concern and has extensive training and protocols to prevent complications. Let me explain the risks honestly, while also providing context.
+
+The primary goal of surgery for craniosynostosis is to safely reshape the skull to allow for normal brain growth. Modern techniques, including endoscopic and open cranial vault remodeling, have excellent safety records. However, as with any major surgery, there are risks.
+
+The most serious potential complications are rare but include significant blood loss requiring transfusion, infection, or a reaction to anesthesia. There is also a very small risk of injury to the brain or its protective lining. In extremely rare cases, these could lead to neurological changes, stroke, or even life-threatening events.
+
+**This is the ""worst-case"" scenario, and it's crucial to understand that your team's entire focus is on avoiding it.** Surgeons use precise imaging, specialized equipment, and work with pediatric anesthesiologists who are experts in caring for infants. Blood loss is anticipated and managed meticulously.
+
+The decision for surgery is never taken lightly. It is recommended when the benefits—preventing increased pressure on the brain and allowing for normal skull and brain development—significantly outweigh these risks. Your surgeon will discuss their specific complication rates and all the safety measures in place during your pre-operative consultation.
+
+Your worry is a sign of your love. Please write down every question you have and bring that list to your next meeting with the surgical team. They are your best resource for understanding the specific risks and safety plans for your child."
+71,FAQ_15_gpt4o,FAQ_15,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:41:02.019399,"First of all, I want to acknowledge how challenging this time must be for you. It's completely natural to have questions and concerns about what to expect after your baby's surgery. 
+
+After craniosynostosis surgery, it's common for babies to have significant swelling, especially around their face and eyes. This can cause their eyes to be swollen shut for a few days. While it can be unsettling to see, this swelling is a normal part of the healing process and usually peaks about 48 to 72 hours after the procedure. Most babies start to look much better within a week as the swelling goes down.
+
+The surgical team will closely monitor your baby during their recovery to ensure everything is progressing well. They will also provide you with specific instructions on how to care for your baby at home and what signs to watch for that might require attention.
+
+It's also important to remember that the surgery is being done to improve your baby's skull shape and allow for normal brain growth. While the initial recovery phase can be difficult, the long-term benefits are significant. Your baby's surgical team is there to support you and answer any questions you might have along the way.
+
+Please ensure you keep in close contact with your healthcare providers and don't hesitate to reach out to them with any concerns. Your baby is in good hands, and soon enough, you'll be seeing the positive changes from the surgery."
+72,FAQ_15_claude,FAQ_15,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:41:13.028169,"I completely understand your concern about how your baby will look after surgery - this worries every parent, and it's important to be prepared.
+
+**What to expect immediately after surgery:**
+
+Yes, significant facial swelling is very common, especially around the eyes and forehead. Many babies do have swollen eyelids that may be temporarily closed or nearly closed for the first 1-3 days. This can be alarming to see, but it's a normal part of the healing process.
+
+**Other typical post-operative changes:**
+- Puffy, bruised appearance around the eyes (often purple or blue)
+- Swelling that peaks around day 2-3, then gradually improves
+- Head bandages or dressings
+- Possible drainage tubes (depending on the procedure)
+- Overall ""puffy"" facial appearance
+
+**The good news:**
+- The swelling looks much worse than it feels to your baby
+- Most swelling resolves significantly within the first week
+- By 2-3 weeks, you'll see dramatic improvement
+- Your baby typically won't be in severe pain despite the appearance
+- The surgical team will provide pain management
+
+**What helps:**
+- Keeping your baby's head elevated
+- Cool compresses (as directed by your team)
+- Following all post-operative care instructions
+
+Your surgical team will prepare you with photos and detailed expectations specific to your baby's procedure. Don't hesitate to ask them to walk you through exactly what to expect - they understand this is difficult for parents to witness, even when everything is going perfectly.
+
+You're doing the right thing by preparing yourself mentally for this."
+73,FAQ_15_llama,FAQ_15,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:41:16.117507,"I completely understand your concerns about how your baby will look after surgery. As a parent, it's natural to worry about the recovery process and potential discomfort for your child.
+
+Immediately after surgery, your baby's face and head will appear swollen, and they may have some bruising. Their eyes might be swollen, but it's unlikely that they will be completely swollen shut. However, it's possible that they might be partially swollen or puffy. This swelling is usually at its worst 24 to 48 hours after surgery and will gradually subside over the next few days.
+
+You can expect your baby to have a soft, padded dressing or bandage on their head to protect the surgical site and help reduce swelling. They may also have some tubes or wires attached to monitor their vital signs and manage any discomfort.
+
+In the first few days after surgery, your baby might look a bit different than you expect. But, with time, the swelling will decrease, and they will start to look more like themselves. It's essential to remember that the initial appearance after surgery is temporary, and the long-term benefits of the surgery will greatly outweigh any short-term discomfort or swelling.
+
+Your surgical team will be closely monitoring your baby's recovery and will provide guidance on how to care for them during this time. They will also address any concerns you may have and provide reassurance as your baby heals."
+74,FAQ_15_gemini,FAQ_15,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:41:33.425882,"Thank you for asking this important question. It’s one of the most common concerns parents have, and it’s completely understandable to want to be prepared for what you'll see after the operation. Seeing your child after surgery can be emotional, and knowing what to expect can make a world of difference.
+
+I want to be very honest with you: your baby will have significant swelling, especially around the forehead, cheeks, and eyes. To answer your question directly, it is very likely that their eyes will be swollen shut for the first two to three days. This happens because the fluid from the surgery on their scalp naturally settles downwards with gravity. While it can be startling to see, please know that this is a normal and expected part of the healing process. Your baby will also have some bruising.
+
+The good news is that this is temporary. The swelling typically peaks around the second or third day after surgery and then begins to improve very quickly. Our expert nursing team will keep your baby comfortable and monitor them closely in the hospital. We often keep their head slightly elevated to help the swelling resolve.
+
+Remember, this temporary appearance is the first step toward a safe, corrected head shape that will allow your baby’s brain to grow and develop without restriction. Your surgical team will walk you through exactly what to expect based on the specific type of procedure your baby is having. We are here to support you and your child every step of the way."
+75,FAQ_15_deepseek,FAQ_15,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:41:44.958499,"I understand how frightening it is to imagine your baby going through surgery. It's completely normal to worry about how they will look and feel immediately afterward. Let me walk you through what to expect, so you can feel more prepared.
+
+Right after surgery, it's true that your baby will have significant swelling, especially around the forehead and eyes. It's very common for the eyelids to be puffy and sometimes swollen shut for the first 24-72 hours. This swelling is the body's normal, healthy response to surgery and is temporary. The medical team will manage any discomfort with safe, appropriate medication. Your baby will also have a head dressing—a soft bandage that looks like a hat—to protect the incision and help reduce swelling.
+
+While this initial appearance can be startling for parents, please know this phase passes quickly. The swelling typically peaks around day two or three and then steadily improves. Within a week, you'll see a dramatic difference, and most visible swelling resolves over several weeks. The surgical team will monitor your baby closely during this initial recovery in the hospital.
+
+The goal of this surgery is not just about appearance—it's to give your baby's growing brain the space it needs. While the immediate post-op period requires patience, the long-term benefits for your child's development and head shape are significant. Your surgical team will give you specific guidance on what to expect and how to care for your baby during this recovery time."
+76,FAQ_16_gpt4o,FAQ_16,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:41:51.441223,"I completely understand your concerns about your baby's upcoming surgery and the care that will follow. It's perfectly normal to feel anxious, but I hope to provide some clarity and reassurance.
+
+Typically, after surgery for craniosynostosis, your baby might need to stay in the hospital for about 3 to 5 days. The exact length of stay can vary depending on how well your baby is recovering and any specific needs they may have. During this time, the medical team will closely monitor your baby to ensure they are healing well and to manage any pain or swelling.
+
+Once you’re home, your baby will need some special care, but you’ll be well-prepared thanks to the guidance from your surgical team. Here are some key points about home care:
+
+1. **Incision Care**: You’ll need to keep the surgical site clean and dry. Your surgical team will provide detailed instructions on how to do this safely.
+
+2. **Monitoring for Signs of Infection**: Keep an eye out for any redness, swelling, or unusual discharge around the incision, and watch for fever. If you notice any of these, contact your healthcare provider promptly.
+
+3. **Managing Swelling and Pain**: Your baby might experience some swelling and discomfort. The hospital team will guide you on how to manage this, including instructions on any medications.
+
+4. **Activity and Positioning**: It’s important to follow the advice you receive on how to handle your baby and any restrictions on activities to ensure proper healing.
+
+5. **Follow-up Appointments**: Regular check-ups are crucial to monitor your baby’s recovery and development.
+
+Please remember, you are not alone in this; your surgical team is there to support you every step of the way. Don’t hesitate to reach out to them with any questions or concerns. Your baby is in good hands, and you’re doing a great job by staying informed and prepared."
+77,FAQ_16_claude,FAQ_16,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:42:02.401788,"I understand how important it is to plan ahead and know what to expect. Hospital stays and home care needs vary based on the type of surgery your baby has.
+
+**Hospital Stay:**
+- **Endoscopic surgery** (minimally invasive, typically for babies under 6 months): Usually 1-2 nights in the hospital
+- **Open cranial vault remodeling** (traditional surgery): Typically 3-5 days, sometimes longer
+
+Your baby will be monitored closely in the hospital for pain management, swelling, and any complications. Most babies are surprisingly resilient!
+
+**Home Care:**
+
+*Immediate post-op (first 1-2 weeks):*
+- Pain management with prescribed medications
+- Watching for signs of infection (fever, unusual drainage, increased redness)
+- Keeping the incision clean and dry
+- Positioning your baby carefully (your surgeon will give specific instructions)
+- Frequent follow-ups with your surgical team
+
+*If endoscopic surgery:*
+- Your baby will need to wear a special helmet 23 hours/day for several months to guide skull growth
+- Regular helmet adjustments will be needed
+
+*General care:*
+- Expect swelling and bruising that peaks around day 2-3, then gradually improves
+- Your baby may be fussier than usual for 1-2 weeks
+- Most babies return to normal activities within 2-4 weeks
+- Avoid daycare for 2-3 weeks to minimize infection risk
+
+**Your surgical team will provide detailed, personalized instructions** before discharge. Don't hesitate to call them with any concerns—they expect and welcome your questions! You'll have support every step of the way."
+78,FAQ_16_llama,FAQ_16,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:42:06.428411,"I completely understand your concerns, and I'm happy to answer your questions. The hospital stay and postoperative care can vary depending on the type and complexity of the surgery, as well as your baby's individual needs.
+
+Typically, babies undergoing craniosynostosis surgery may spend 3-5 days in the hospital after the operation. This allows our team to closely monitor their progress, manage any pain or discomfort, and ensure they're recovering smoothly.
+
+Once you're discharged, it's essential to follow a specific care plan to promote healing and minimize complications. Your surgical team will provide personalized instructions, but generally, you can expect to:
+
+1. Monitor for signs of infection, such as fever, redness, or swelling around the incision site.
+2. Keep the incision site clean and dry, and follow the recommended dressing changes.
+3. Manage pain with prescribed medications and comfort measures like gentle rocking or swaddling.
+4. Ensure your baby is getting enough rest and maintaining a comfortable position to reduce swelling.
+5. Follow a specific feeding schedule, as your baby may need to eat smaller, more frequent meals to manage discomfort.
+
+It's also crucial to attend follow-up appointments with your surgical team to track your baby's progress and address any concerns. We'll work closely with you to ensure a smooth transition to home care and provide ongoing support throughout the recovery process.
+
+Remember, every baby is unique, and their needs may vary. Your surgical team will be your best resource for personalized guidance and care. I encourage you to ask questions and express any concerns you may have – we're here to support you and your baby throughout this journey."
+79,FAQ_16_gemini,FAQ_16,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:42:23.821137,"Of course. These are excellent and very practical questions that every parent has. It’s completely understandable to want a clear picture of what to expect after surgery. Let’s walk through it.
+
+The length of the hospital stay depends directly on the type of surgery your baby has.
+
+For a **minimally invasive, endoscopic surgery**, the hospital stay is typically quite short, usually just one to two nights. Because the incisions are small, recovery is often faster with less swelling.
+
+For a **traditional open surgery (cranial vault remodeling)**, the stay is a bit longer, generally around three to five days. This is a more extensive procedure, so your baby will likely spend the first night in the pediatric intensive care unit (PICU) for close monitoring. Swelling is more significant with this approach, and it takes a few days for it to begin improving before you can go home.
+
+Once you are home, your role is focused on comfort and care. Our team will give you very specific instructions, but the main tasks include:
+
+*   **Incision Care:** Your primary job will be to keep the incision line clean and dry. We will show you exactly how to do this before you leave the hospital.
+*   **Pain Management:** We will manage your baby’s pain carefully in the hospital and send you home with a clear plan, usually involving scheduled doses of over-the-counter pain relievers like Tylenol or Motrin.
+*   **Managing Swelling:** It is normal for your baby to have significant swelling, especially around the eyes. This is temporary and usually peaks around day three, then gets much better over a week or two.
+*   **Helmet Therapy:** If your baby has the endoscopic procedure, they will need to wear a custom-molded helmet for several months to help guide the skull's growth. This is a crucial part of the treatment.
+
+Remember, you won't be sent home until you feel comfortable and your baby is doing well. We are your partners in this, and we’ll ensure you have all the support and information you need for a smooth recovery at home."
+80,FAQ_16_deepseek,FAQ_16,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:42:37.594432,"I can hear the worry in your questions, and it's completely understandable. Planning for your baby's hospital stay and home recovery is a big part of feeling prepared, and I'm here to help guide you through what to expect.
+
+For most babies undergoing surgery for craniosynostosis, the hospital stay is typically **3 to 5 days**. The first day is the surgery itself. After that, our team focuses on managing your baby's comfort, monitoring for any swelling, and ensuring they are feeding well. We will help you become comfortable with caring for the incision site before you go home. Every child recovers at their own pace, so this timeline can vary slightly.
+
+Once home, your baby will need a period of gentle, protected recovery for about **4 to 6 weeks**. The most important care at home involves:
+*   **Wound Care:** Keeping the incision clean and dry as instructed. We'll show you exactly how to do this.
+*   **Comfort & Positioning:** Your baby may need to sleep and rest in specific positions to minimize swelling and pressure on the surgical area. We will provide clear guidance.
+*   **Activity Restrictions:** You'll need to avoid any rough play, jostling, or situations where your baby could bump their head. Normal, gentle cuddling and feeding are encouraged.
+*   **Pain Management:** We will send you home with a clear plan for any needed pain medication to keep your baby comfortable.
+*   **Feeding:** Ensuring your baby stays well-hydrated and continues to gain weight is a top priority for healing.
+
+You will have detailed, written instructions and multiple follow-up appointments with our team. We are with you every step of the way. Please write down all your questions for your surgical team—no question is too small when it comes to your child's care."
+81,FAQ_17_gpt4o,FAQ_17,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:42:42.895846,"I completely understand your concerns about caring for your little one after surgery. It's natural to want to know when you can resume normal activities like holding, feeding, and even traveling with your baby. 
+
+After craniosynostosis surgery, most babies are able to be held and fed normally quite soon—often within a day or two. Your surgical team will provide specific guidance based on your baby's individual recovery. Initially, you might notice some swelling and discomfort, which is common, and your medical team will ensure your baby receives the appropriate pain relief.
+
+As for traveling, it's usually advisable to wait until your baby has had a follow-up visit with the surgeon to ensure everything is healing well. This is typically around 2 to 4 weeks after surgery. Traveling too soon could be uncomfortable for your baby, especially if there are any unexpected issues. If your travel plans involve flying, it's particularly important to discuss this with your doctor, as cabin pressure changes could potentially affect recovery.
+
+Remember, every baby heals at their own pace, and your surgical team will provide the best advice tailored to your baby's specific needs. They will also give you detailed postoperative care instructions, including signs of potential complications to watch for, such as increased swelling or fever, which should prompt immediate medical attention.
+
+Your little one is in good hands, and with your love and care, they will be on the road to recovery soon. Please feel free to reach out to your healthcare team with any concerns or questions you might have during this time."
+82,FAQ_17_claude,FAQ_17,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:42:54.700489,"I understand how much you want to comfort your baby and return to normal routines. These are important questions every parent asks.
+
+**Holding Your Baby:**
+You can typically hold your baby **within hours after surgery** once they're stable and awake. Initially, you'll need to be gentle and support their head carefully, avoiding pressure on surgical sites. Most parents can resume normal cuddling within **2-3 days**, though your surgical team will give specific guidance based on your baby's procedure.
+
+**Feeding:**
+- **Bottle/breastfeeding** usually resumes within **4-6 hours** after surgery, starting gradually
+- Most babies return to normal feeding patterns within **24-48 hours**
+- Some temporary fussiness with feeding is normal due to swelling and discomfort
+- Your team will monitor intake closely before discharge
+
+**Travel:**
+- **Local travel** (under 2 hours): Generally safe after **2 weeks** with your surgeon's clearance
+- **Air travel/long trips**: Typically recommended to wait **4-6 weeks** post-surgery
+- This allows time for initial healing, ensures swelling has decreased, and confirms no complications requiring quick medical access
+
+**Important considerations for travel:**
+- Avoid situations where you're far from medical care during the first month
+- Bring all post-op instructions and your surgeon's contact information
+- Plan for extra time at airports (TSA may need to see surgical documentation)
+
+Every baby heals differently, so **always get clearance from your surgical team** before making travel plans. They know your baby's specific procedure and can give personalized timing.
+
+What concerns you most about the recovery period?"
+83,FAQ_17_llama,FAQ_17,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:42:58.238921,"I completely understand your concerns as a parent, and it's natural to want to get back to normal with your baby as soon as possible. After craniosynostosis surgery, our main priority is your baby's safety and healing.
+
+Immediately after surgery, your baby will need some extra care to ensure a smooth recovery. For the first 2-4 weeks, it's essential to follow a specific positioning and handling plan provided by your surgical team. This might include:
+
+- Avoiding bending or lifting your baby, as it may put pressure on the surgical site.
+- Holding your baby with their head in a neutral position to reduce swelling and promote healing.
+- Supporting your baby's head when feeding or changing diapers.
+
+As for feeding, you can usually resume normal feeding within a few days after surgery. However, it's crucial to follow your surgical team's specific instructions on feeding positions and techniques to minimize pressure on the surgical site.
+
+For travel, it's generally recommended to wait until your baby's follow-up appointment with their surgical team, usually within 7-14 days after surgery. This ensures the incision site is healing properly and reduces the risk of complications. After getting clearance from their surgical team, you can usually resume normal travel activities.
+
+Every baby's recovery is unique, so it's vital to consult with your surgical team for personalized guidance on caring for your baby after surgery. By following their instructions and attending follow-up appointments, you'll be able to ensure a safe and smooth recovery for your baby.
+
+Remember, your surgical team is committed to supporting you throughout this journey. Don't hesitate to reach out with any questions or concerns – we're here to help you and your baby thrive."
+84,FAQ_17_gemini,FAQ_17,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:43:17.199225,"Thank you for asking these thoughtful and important questions. It’s completely understandable to be thinking about getting back to those precious, everyday moments of holding and feeding your baby. It shows how much you’re focused on their comfort and care.
+
+**Holding and Feeding**
+
+You will be able to hold and comfort your baby very soon after surgery. In the beginning, while your baby is in the recovery area or pediatric ICU, our expert nursing staff will help you. We will show you the safest ways to hold your baby to be mindful of their incision and any swelling.
+
+Feeding often resumes within the first day. Some babies are eager to eat right away, while others are a bit sleepy from anesthesia and need more time. We follow your baby’s cues, starting slowly and ensuring they are comfortable. Our goal is to have you holding and feeding your baby as you normally would before you leave the hospital, usually within a few days.
+
+**Travel**
+
+Regarding travel, we advise being more cautious. It is very important to stay close to home for the first few weeks after surgery. This allows us to see your baby for their follow-up appointments and be available immediately if any issues, like an infection or fluid collection, were to arise.
+
+Most surgical teams recommend avoiding long car trips for about 2-4 weeks and air travel for at least 4-6 weeks. Flying is best postponed until after your baby has had their first post-operative check-up and received the all-clear from your surgeon.
+
+Every child's recovery is unique. These are general guidelines, and your surgical team will provide you with specific instructions tailored to your baby’s procedure and progress. You will be amazed at how resilient your little one is."
+85,FAQ_17_deepseek,FAQ_17,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:43:30.166199,"I know how much you want to hold and comfort your baby after surgery, and it's completely normal to worry about their recovery. These are excellent and very practical questions.
+
+**Holding and Feeding:** You will be able to hold your baby very soon after surgery, often within the first 24 hours, once they are stable and comfortable. The nurses and I will show you the best way to support their head. For feeding, most babies can nurse or take a bottle within a few hours after waking up. We'll start slowly to ensure they aren't nauseous. It's common for appetite to be lower for a day or two, but we'll monitor their hydration closely.
+
+**Travel:** This depends on the type of travel. For short car rides (e.g., going home from the hospital), your baby will be ready once discharged, usually 2-4 days after surgery. You'll need to use their car seat carefully, and we can show you how to use extra padding if needed.
+
+For longer trips or air travel, we generally recommend waiting **at least 2-3 weeks**. This allows for the initial, most critical healing phase, ensures any swelling has gone down, and lets us see your baby for their first post-op check-up. Air travel too soon can increase swelling and risk of complications. **Always get specific clearance from your surgical team before any significant travel.**
+
+Your baby's safety and comfort are our top priorities. We will give you very clear, personalized instructions before you leave the hospital. Please don't hesitate to ask your care team any other questions you have—we are here to guide you through every step."
+86,FAQ_18_gpt4o,FAQ_18,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:43:34.543868,"I completely understand your concerns about your child's appearance after treatment for craniosynostosis. It's natural to worry about how your child's head shape will look and whether there will be visible scars. Let me provide some reassurance and information.
+
+The goal of craniosynostosis surgery is to correct the shape of the skull and allow for normal brain growth. In many cases, after surgery, the head shape can look quite normal or significantly improved. However, the extent of improvement can depend on factors like which sutures were involved and the timing of the surgery. Early intervention typically leads to better outcomes.
+
+Regarding scars, it's important to know that skilled pediatric neurosurgeons are very mindful of minimizing visible scarring. The incisions are usually placed in areas that are less noticeable, and over time, with healing, the scars often become much less visible. Children’s skin tends to heal remarkably well, and scars can fade significantly as they grow.
+
+While no surgery is without risks, the benefits of correcting craniosynostosis often outweigh the potential for visible scarring. The priority is to ensure proper brain development and function.
+
+I encourage you to discuss these concerns with your surgical team, as they can provide specific information about what to expect based on your child's unique situation. They are there to guide you through this process and support your family every step of the way.
+
+Remember, you are not alone in this, and your surgical team is committed to achieving the best possible outcome for your child."
+87,FAQ_18_claude,FAQ_18,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:43:46.592480,"I understand how important it is to know what to expect for your child's appearance after surgery. Let me give you honest, realistic answers.
+
+**Head Shape:**
+Most children achieve excellent head shape improvement, but ""completely normal"" varies by several factors:
+- **Type of craniosynostosis**: Single suture fusions typically have better cosmetic outcomes than complex multi-suture cases
+- **Age at surgery**: Earlier intervention (3-6 months) generally produces better reshaping as the skull is more moldable
+- **Surgical technique**: Both traditional open surgery and endoscopic approaches can achieve good results
+- **Growth**: Your child's head will continue growing and remodeling naturally over years
+
+Realistically, most children have head shapes that appear normal to others, though parents who know exactly where to look might notice subtle asymmetries. The goal is age-appropriate appearance and proper brain growth—not absolute perfection.
+
+**Scarring:**
+- **Endoscopic surgery**: Small incisions (1-2 inches) that typically hide well within the hairline
+- **Traditional open surgery**: Longer incision across the top of the head, but designed to follow natural contour lines and hide beneath hair
+- **Scar visibility**: With hair growth, most scars become virtually invisible. Even with short haircuts, well-healed scars are usually difficult to see
+- **Scar maturation**: Takes 12-18 months; scars fade significantly over time
+
+**Bottom line**: The vast majority of children look wonderfully normal and live without cosmetic concerns. Your surgical team can show you before/after photos of similar cases to set realistic expectations.
+
+What matters most is your child's health and development—and on that front, outcomes are excellent."
+88,FAQ_18_llama,FAQ_18,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:43:48.975658,"I completely understand your concern about your child's appearance after surgery. Every parent wants their child to look and feel their best. 
+
+First, let me reassure you that our goal in treating craniosynostosis is not only to alleviate any potential health risks but also to improve the overall appearance of your child's head shape. The extent of correction varies from child to child, depending on the type and severity of the condition, as well as the timing of surgery.
+
+In many cases, especially when surgery is performed at a young age, the results can be quite remarkable, and the head shape can appear very normal. However, it's essential to understand that perfection is not always possible, and some subtle imperfections might remain.
+
+Regarding visible scars, we use specialized techniques to minimize their appearance. We often use incisions that follow the natural curves of the scalp, which helps the scars blend in with the surrounding skin. Additionally, the hair will grow back over the incision site, further concealing any scars.
+
+It's also important to note that as your child grows, their hair will grow, and the scars will become less noticeable. The focus should be on the overall health and well-being of your child, rather than the appearance of scars.
+
+I would be happy to discuss your child's specific case with you and answer any questions you may have. It's crucial to have a detailed conversation with your surgical team to understand what to expect in terms of outcomes and scars."
+89,FAQ_18_gemini,FAQ_18,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:44:06.032739,"Thank you for asking these incredibly important questions. They are at the heart of what every parent in your position wants to know, and it's completely normal to be focused on how your child will look and feel as they grow up. Let’s address both of your concerns.
+
+Regarding head shape, the primary goal of surgery is to give your baby’s brain the space it needs to grow and develop properly. A major secondary goal, which we almost always achieve, is a significant improvement in the shape of the head. After we release the fused suture, your child’s rapidly growing brain becomes the best ""head shaper."" It will naturally push the skull into a more rounded, typical shape over the months following the procedure. While no person's head is perfectly symmetrical, the goal is an excellent cosmetic result where your child's head shape falls well within the normal range and does not draw attention.
+
+As for scarring, any surgery will leave a scar, but we are extremely careful about where we place the incision to make it as hidden as possible. For most traditional open surgeries, we use a wavy or zigzag incision across the top of the head, from ear to ear, well within the area where hair grows. This technique helps camouflage the scar as the hair parts naturally. For smaller, endoscopic procedures, the incisions are much shorter. In either case, as your child's hair grows in, the scar typically becomes very difficult to see. Over time, it will fade and become even less noticeable.
+
+The ultimate goal is a healthy, thriving child whose past surgery is their little secret. Please be sure to discuss the specific incision plan and expected outcome for your child with your surgical team, as they can give you the most personalized information. We are here to support you through every step."
+90,FAQ_18_deepseek,FAQ_18,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:44:18.095119,"I understand how worried you must be about your child's appearance and the long-term effects of surgery. These are completely normal and important questions for any parent to ask.
+
+The primary goal of surgery for craniosynostosis is to give the brain room to grow normally and safely. A significant improvement in head shape is a very important secondary goal. With modern surgical techniques, the results are typically excellent. Your child's head shape will become much more symmetrical and proportional. While we aim for a ""normal"" appearance, it's important to know that every child is unique. The final result depends on factors like the specific sutures involved, the surgical technique used, and your child's own healing process. Most children have outcomes that are cosmetically very satisfying, allowing them to blend in with their peers without noticeable difference.
+
+Regarding scars, this depends on the type of surgery. With endoscopic surgery, the incisions are very small (about one inch each) and are usually placed within the hairline, making them virtually invisible as hair grows. For open cranial vault remodeling, the incision typically runs ear-to-ear over the top of the head, hidden by hair. While this scar is longer, it also becomes very faint and well-concealed over time. Our surgical team takes great care with closure techniques to minimize scarring.
+
+The most important thing is that your surgical team will discuss the specific expected outcomes and scar placement for your child's individual case. They can show you photos of typical long-term results to give you a realistic and reassuring picture."
+91,FAQ_19_gpt4o,FAQ_19,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:44:22.480465,"I understand how concerned you must be about your child's future, and it's completely normal to have these worries. Craniosynostosis can sound alarming, but the good news is that with timely and appropriate treatment, many children go on to live healthy, active lives.
+
+Craniosynostosis involves the premature fusion of one or more of the skull's sutures, which can potentially affect brain and skull growth. However, the primary goal of treatment, typically through surgery, is to correct the skull shape and allow enough room for the brain to grow normally. When treatment is done early—usually within the first year of life—most children experience normal brain development.
+
+In terms of playing sports and other activities, once your child has recovered from surgery, they can often participate in sports and enjoy the same activities as their peers. It's important to have regular follow-ups with your surgical team to monitor your child's development and ensure everything is on track. They will provide specific guidance on any activity restrictions immediately following surgery and as your child grows.
+
+While surgery, like any procedure, carries risks such as infection or bleeding, these are generally rare and manageable with expert care. Your surgical team will discuss all potential risks and benefits with you to help you make an informed decision. Always feel free to reach out to them with any questions or concerns you might have along the way.
+
+Remember, you're not alone in this journey. Your healthcare team is here to support you and your child every step of the way."
+92,FAQ_19_claude,FAQ_19,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:44:33.376966,"I understand how worried you must be about your child's future. Let me reassure you with what we know from decades of research and experience.
+
+**Brain Development:**
+The excellent news is that with timely surgical treatment, the vast majority of children with craniosynostosis have completely normal brain development and intelligence. Surgery creates space for the brain to grow naturally. Studies show that children treated for single-suture craniosynostosis (the most common type) typically have cognitive outcomes identical to their peers.
+
+The key is early intervention—which is why your diagnosis now is so important. Untreated craniosynostosis can potentially affect development due to increased intracranial pressure, but this is exactly what surgery prevents.
+
+**Sports and Activities:**
+After full healing (typically 6-12 months post-surgery), most children can participate in all normal childhood activities, including sports. Your surgeon will provide specific guidance, but generally:
+- Contact sports may require protective headgear
+- Swimming, running, soccer, and most activities are fine
+- Each child's situation is unique, so follow your team's recommendations
+
+**Living a Normal Life:**
+Absolutely yes. Most children with treated craniosynostosis go on to lead completely normal lives—attending regular schools, playing with friends, participating in sports, and pursuing any career they choose. You likely wouldn't be able to identify them in a classroom or playground.
+
+**Next Steps:**
+Discuss your specific child's condition with your craniofacial team. They'll provide personalized guidance based on which suture(s) are affected and your child's individual needs.
+
+Your child's future is bright. Early treatment makes all the difference."
+93,FAQ_19_llama,FAQ_19,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:44:36.590766,"I completely understand your concerns as a parent, and I'm here to reassure you. Craniosynostosis is a condition where one or more of the bones in your child's skull fuse together prematurely. While this can cause some initial worries, the good news is that with proper treatment, most children with craniosynostosis can lead normal, active lives.
+
+Regarding brain development, studies have shown that the majority of children with craniosynostosis who receive timely and appropriate treatment have normal cognitive and intellectual development. However, it's crucial to monitor their progress closely with regular check-ups and developmental assessments.
+
+As for playing sports, the answer is yes, most children with treated craniosynostosis can participate in sports and physical activities without any restrictions. After surgery, your child will need some time to recover, but once they've healed, they can usually engage in all types of activities, including contact sports. It's essential to follow the specific guidance provided by your child's surgical team, as some activities may need to be avoided for a certain period.
+
+It's also important to note that some children with craniosynostosis may have a higher risk of developing other conditions, such as sleep apnea or vision problems. Regular follow-up appointments with their healthcare team will help identify any potential issues early on, allowing for prompt treatment.
+
+Every child is unique, and it's essential to work closely with your child's surgical team to understand their specific needs and develop a personalized plan. With the right care and support, your child can thrive and live a happy, healthy life."
+94,FAQ_19_gemini,FAQ_19,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:44:55.053983,"Thank you for asking this. It’s completely understandable that this is your biggest concern, and it's the most important question we can address. As a parent, you are looking past the surgery to your child's future, and that is exactly where our focus is, too.
+
+Let me reassure you: for the vast majority of children with single-suture craniosynostosis, the outlook for normal brain development is excellent.
+
+The brain itself is typically healthy and developing perfectly; the issue is with the skull’s ability to expand to accommodate it. The primary goal of surgery is to correct the skull's shape to give your child’s brain all the room it needs to grow and thrive without constraint. By performing surgery at a young age, we are creating the best possible environment for the brain to reach its full potential, preventing the risks of increased pressure that could, if left untreated, affect development.
+
+And yes, absolutely, your child can live a full and normal life. After the surgical and healing period, which babies handle remarkably well, there are generally no long-term restrictions. Once the bones have healed, the skull is strong and stable. Your child can look forward to running on the playground, participating in sports, and doing everything their friends do.
+
+Every child is unique, and your surgical team will discuss any specific considerations for your baby. But please hold on to the fact that our shared goal is to see your child grow up healthy, happy, and without limitations."
+95,FAQ_19_deepseek,FAQ_19,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:45:06.810167,"I understand how worried you must be about your child's future. These are very common and important questions for parents in your situation. Let me reassure you with what we know from current medical evidence.
+
+For most children with craniosynostosis, **brain development is normal** after appropriate treatment. The primary goal of surgery is to allow the growing brain enough space to develop properly. When surgery is performed at the recommended time (typically in infancy), it successfully relieves pressure on the brain and creates room for normal growth. Long-term studies show that children who receive timely, effective treatment generally achieve normal cognitive development and reach their developmental milestones.
+
+Regarding sports and activities: **Yes, your child can absolutely live a full, active life.** After complete recovery from surgery—which usually takes a few months—there are typically no permanent restrictions on physical activity. The skull heals to become strong and resilient. Your child will be able to participate in sports, play, and engage in all the normal activities of childhood. We do recommend using protective helmets for certain high-impact activities, just as we would for any child.
+
+The key is working with a specialized craniofacial team to ensure proper diagnosis, well-timed surgery, and follow-up care. Every child's situation is unique, so your surgical team will give you the most personalized guidance. Please share these concerns with them—they are there to support your child's journey to a healthy, active life."
+96,FAQ_20_gpt4o,FAQ_20,GPT-4o,gpt4o,gpt-4o,2026-01-11T16:45:12.272531,"I completely understand how concerning it must be to think about your child needing multiple surgeries. Craniosynostosis can be a challenging diagnosis, but you're not alone in this journey. 
+
+The initial surgery aims to correct the fused sutures in your child's skull, allowing for normal brain and skull growth. For many children, this surgery can be a one-time procedure. However, each child's situation is unique, and some may require additional surgeries as they grow. The need for further surgeries depends on various factors, including the type of craniosynostosis, the child's growth, and how their skull and facial features develop over time.
+
+In some cases, follow-up surgeries might be necessary to address any residual or new issues with skull shape or to improve function, such as vision or breathing. Your surgical team will monitor your child's development closely through regular follow-up appointments. They are the best resource for determining if and when additional interventions might be needed.
+
+It's important to remember that the primary goal of these procedures is to ensure your child's brain has enough space to grow and develop properly. While the thought of multiple surgeries can be daunting, know that these decisions are made with your child's best interests at heart.
+
+Please feel free to discuss any concerns or questions with your surgical team—they are there to support you every step of the way. You're doing a great job by staying informed and proactive about your child's health."
+97,FAQ_20_claude,FAQ_20,Claude 3.7 Sonnet,claude,claude-sonnet-4-5-20250929,2026-01-11T16:45:23.671756,"I understand this uncertainty about the future is one of the hardest parts of your journey. Let me give you an honest answer.
+
+**For most children, craniosynostosis surgery is a one-time procedure.** The majority of babies who undergo surgery (whether traditional open repair or endoscopic) won't need additional cranial surgeries as they grow. Once the skull is reshaped and the sutures are released, the brain typically has room to grow normally.
+
+**However, some children may need additional procedures:**
+
+**Revision surgery** (5-15% of cases) might be needed if:
+- The skull shape doesn't develop as expected
+- Multiple sutures were involved (more complex cases)
+- Surgery was performed very early or very late
+- There's an underlying genetic syndrome
+
+**Other considerations:**
+- Children with **syndromic craniosynostosis** (like Apert or Crouzon syndrome) often need multiple surgeries throughout childhood and adolescence
+- Some may need **midface advancement** in later childhood if facial bones are affected
+- Rarely, **increased intracranial pressure** can develop later, requiring intervention
+
+**The good news:** Your surgical team will monitor your child's head growth closely through regular follow-ups. Most issues, if they occur, are caught early. Modern surgical techniques have significantly reduced revision rates.
+
+**What you can do:** Attend all follow-up appointments, take progress photos, and don't hesitate to contact your team if you notice concerning changes in head shape or development.
+
+Your neurosurgeon can give you a more personalized prediction based on your child's specific diagnosis and surgical plan."
+98,FAQ_20_llama,FAQ_20,Llama 3.1 70B Instruct Turbo,llama,meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,2026-01-11T16:45:26.355809,"I completely understand your concerns, and it's natural to wonder about the long-term implications of your child's treatment. Craniosynostosis is a complex condition, and the need for additional surgeries can vary greatly depending on the type of synostosis, the severity of the condition, and the age at which the initial surgery is performed.
+
+In general, the primary goal of surgery is to correct the abnormal head shape and allow for normal brain growth and development. For some children, a single surgery may be sufficient, and they may not require any additional procedures. However, in some cases, a child may need a second surgery, known as a revision or secondary surgery, to address any residual deformities or to ensure optimal head shape and growth.
+
+It's also possible that your child may need additional procedures, such as helmet therapy, to help mold the shape of their head and skull after surgery. This is usually a non-invasive and painless process that can be done in conjunction with regular follow-up appointments.
+
+It's essential to work closely with your child's surgical team to monitor their progress and address any concerns or issues that may arise. They will be able to assess your child's individual needs and provide personalized guidance on the best course of treatment.
+
+While it's impossible to predict with certainty whether your child will need additional surgeries, rest assured that we will do everything possible to ensure the best possible outcome for your child. We'll work together to monitor their growth and development, and make any necessary adjustments to their treatment plan to ensure they receive the best care possible."
+99,FAQ_20_gemini,FAQ_20,Gemini 2.5 Pro,gemini,gemini-2.5-pro,2026-01-11T16:45:44.446152,"That is an excellent and very important question, and it’s one that I hear from almost every parent. It’s completely natural to want to know what the future holds for your child and to hope that this journey involves just one major step.
+
+For the vast majority of children, the answer is **no, they will not need more surgery on their skull.** This is especially true for babies with non-syndromic craniosynostosis, where only a single suture has fused. The goal of the initial surgery is to correct the fusion and give the brain the space it needs for its rapid growth. In the first few years of life, the brain is the primary driver of skull shape. Once we have created that space, the brain typically does the rest of the work, rounding out the head shape naturally and permanently. For most families, this is a one-time fix.
+
+However, for a smaller group of children, particularly those with more complex, syndromic craniosynostosis (often involving multiple sutures and linked to a genetic condition like Apert or Crouzon syndrome), the story can be different. In these cases, there is a higher chance that another surgery may be needed later in childhood. This could be to address renewed pressure on the brain or to help the middle part of the face grow forward correctly.
+
+The most reliable answer will come from your own surgical team. They understand your child’s specific diagnosis and can give you the most accurate picture of what to expect. Our shared goal is always to achieve a safe, lasting result with the fewest procedures possible. Please be sure to ask them this exact question at your next appointment."
+100,FAQ_20_deepseek,FAQ_20,DeepSeek V3,deepseek,deepseek-chat,2026-01-11T16:45:56.455308,"I understand how worrying it is to think about your child needing more than one surgery. It's a very common and important question for parents in your situation.
+
+For most children with single-suture, non-syndromic craniosynostosis, the initial cranial vault remodeling surgery is considered a definitive, one-time procedure. The goal is to release the fused suture and reshape the skull to allow for normal brain growth and development. In the vast majority of these cases, no further major surgery is needed as your child grows.
+
+However, it's important to know that in some situations, additional procedures might be discussed. These are not common, but can include:
+*   **Minor revisions:** Occasionally, as the skull grows, a small irregularity in the bone contour might be addressed with a minor procedure later in childhood.
+*   **Syndromic cases:** If your child has a syndromic form of craniosynostosis (involving multiple sutures and often other health factors), a staged, multi-surgery plan is typically part of the long-term treatment from the start.
+*   **Rare complications:** Issues like bone regrowth in the surgical area (re-osseous) are uncommon but could require attention.
+
+Your surgical team will monitor your child closely with periodic check-ups and scans for several years to ensure the skull is growing properly. They are your best resource for discussing your child's specific prognosis.
+
+Please take comfort in knowing that for the most common types, this surgery is designed to be the fix that allows your child to grow and thrive without further major intervention."

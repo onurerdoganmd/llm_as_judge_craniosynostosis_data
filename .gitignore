@@ -1,0 +1,10 @@
+# secrets
+.env
+# harness outputs (re-runs)
+/outputs/
+# local notes
+_TODO_before_upload.md
+# python
+__pycache__/
+*.pyc
+.venv/
